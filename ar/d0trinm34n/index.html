@@ -1,0 +1,949 @@
+<!doctype html>
+<html lang="ar">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"
+    />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta http-equiv="Page-Exit" content="BlendTrans(Duration" ="0)" />
+    <meta http-equiv="Page-Enter" content="BlendTrans(Duration" ="0)" />
+    <meta
+      http-equiv="Content-Security-Policy"
+      content="upgrade-insecure-requests"
+    />
+    <title></title>
+    <meta name="description" content="" />
+    <meta name="keywords" content="" />
+    <meta property="og:title" content="" />
+    <meta property="og:description" content="" />
+    <meta property="og:image" content="https://makbas.com.tr/page/d0trinm34n/fs3cs.jpg" />
+    <meta name="robots" content="index, follow" />
+    <link rel="stylesheet" href="/src/css.css" />
+    <link rel="shortcut icon" href="/img/icon.png" type="image/png" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="/src/swiper-bundle.min.css" />
+    <script src="/src/swiper-bundle.min.js"></script>
+    
+  </head>
+  <body>
+    <div id="header"><div class="xkeak">
+  <div class="xkeaktitle">
+    <div class="xkeaktitlebody">
+      <div class="xkeaktitlebodytitle">
+        Makbaş Web Sitemize Hoşgeldiniz
+      </div>
+      <div class="xkeaktitlebodylang">
+        <ul>
+          <li><a href="/tr/"><img height="25" src="/src/lang/tr.png"></a></li><li><a href="/en/"><img height="25" src="/src/lang/en.png"></a></li><li><a href="/ar/"><img height="25" src="/src/lang/ar.png"></a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class="xkeakbody">
+    <a href="/ar"><img src="/img/logo.svg" class="xkeakbodylogo" /></a>
+  </div>
+  <div class="xkeakmenubody">
+    <div class="xkeakmenu">
+      <div class="xkeakmenulistbody">
+        <div class="xkeakmenulist">
+          <ul>
+            <a href="/ar/">الصفحة الرئيسية </a><a href="/ar/kurumsal/">المؤسسية</a><a href="/ar/insaat-urunlerim/"></a><a href="/ar/kozmetik-urunlerimiz/">منتجاتنا التجميلية</a><a href="/ar/iletisim/">تواصل</a>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<style>
+  .xkeak {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  .xkeaktitle {
+    width: 100%;
+    background-color: #333;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .xkeaktitlebody {
+    color: #fff;
+    width: var(--max);
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 0px 10px 0px;
+  }
+  .xkeaktitlebodytitle {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: left;
+  }
+  .xkeaktitlebodylang {
+    width: auto;
+    margin: -5px 0px -5px 0px;
+  }
+  .xkeaktitlebodylang ul {
+    display: flex;
+    gap: 5px;
+  }
+  .xkeakbody {
+    width: var(--max);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 5px 0px 5px 0px;
+  }
+  .xkeakmenu {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    width: var(--max);
+  }
+  .xkeakmenulist {
+    width: calc(100% - 20px);
+    background-color: #1e3046;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  .xkeakmenubody {
+    width: 100%;
+    background-color: #1e3046;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .xkeakmenulist ul {
+    width: 100%;
+    list-style-type: none;
+    display: flex;
+    gap: 10px;
+    margin: 0;
+    padding: 0;
+    overflow-x: auto;
+  }
+  .xkeakmenulist ul a {
+    padding: 10px;
+    font-size: 16px;
+    color: #fff;
+    border-bottom: 1px solid #ddd;
+    width: 100%;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    white-space: nowrap;
+  }
+  .xkeakmenulist ul a:hover {
+    background-color: #e0e0e0;
+    border-radius: 5px;
+    color: #000;
+    cursor: pointer;
+  }
+  .xkeakmenulistbody {
+    width: 100%;
+  }
+  .xkeakbodylogo {
+    height: 100px;
+    max-width: 90vw;
+    max-height: 100px;
+  }
+  @media screen and (max-width: 1024px) {
+    .xkeakmenu {
+      overflow-x: auto;
+    }
+    .xkeakmenulist ul {
+      flex-direction: row;
+    }
+    .xkeakbodylogo {
+      height: 50vw;
+      max-width: 50vw;
+      max-height: 100px;
+    }
+  }
+  @media screen and (max-width: 768px) {
+    .xkeakmenulist ul a {
+      font-size: 14px;
+    }
+  }
+</style>
+</div>
+    <div id="content"><div class="wswq9">
+  <div class="wswq9body">
+        <div onclick="imgfull('/img/v0l1mi/A303-N.KAYIN-1.jpg')" class="wswq9bodyitem">
+          <div class="wswq9bodyitemimg">
+            <img src="/img/v0l1mi/A303-N.KAYIN-1.jpg">
+          </div>
+        </div>
+      
+        <div onclick="imgfull('/img/v0l1mi/A306-N.KAYIN-4.jpg')" class="wswq9bodyitem">
+          <div class="wswq9bodyitemimg">
+            <img src="/img/v0l1mi/A306-N.KAYIN-4.jpg">
+          </div>
+        </div>
+      
+        <div onclick="imgfull('/img/v0l1mi/A308-ARMUT.jpg')" class="wswq9bodyitem">
+          <div class="wswq9bodyitemimg">
+            <img src="/img/v0l1mi/A308-ARMUT.jpg">
+          </div>
+        </div>
+      
+        <div onclick="imgfull('/img/v0l1mi/A315-MAUN.jpg')" class="wswq9bodyitem">
+          <div class="wswq9bodyitemimg">
+            <img src="/img/v0l1mi/A315-MAUN.jpg">
+          </div>
+        </div>
+      
+        <div onclick="imgfull('/img/v0l1mi/A316-WENGE.jpg')" class="wswq9bodyitem">
+          <div class="wswq9bodyitemimg">
+            <img src="/img/v0l1mi/A316-WENGE.jpg">
+          </div>
+        </div>
+      
+        <div onclick="imgfull('/img/v0l1mi/A318-NOSTALJI.jpg')" class="wswq9bodyitem">
+          <div class="wswq9bodyitemimg">
+            <img src="/img/v0l1mi/A318-NOSTALJI.jpg">
+          </div>
+        </div>
+      
+        <div onclick="imgfull('/img/v0l1mi/A319-AKCA-AGAC.jpg')" class="wswq9bodyitem">
+          <div class="wswq9bodyitemimg">
+            <img src="/img/v0l1mi/A319-AKCA-AGAC.jpg">
+          </div>
+        </div>
+      
+        <div onclick="imgfull('/img/v0l1mi/A332-KOYU-KIRAZ.jpg')" class="wswq9bodyitem">
+          <div class="wswq9bodyitemimg">
+            <img src="/img/v0l1mi/A332-KOYU-KIRAZ.jpg">
+          </div>
+        </div>
+      
+        <div onclick="imgfull('/img/v0l1mi/A333-BERGAMA.jpg')" class="wswq9bodyitem">
+          <div class="wswq9bodyitemimg">
+            <img src="/img/v0l1mi/A333-BERGAMA.jpg">
+          </div>
+        </div>
+      
+        <div onclick="imgfull('/img/v0l1mi/A338-VENEDIK-CEVIZ.jpg')" class="wswq9bodyitem">
+          <div class="wswq9bodyitemimg">
+            <img src="/img/v0l1mi/A338-VENEDIK-CEVIZ.jpg">
+          </div>
+        </div>
+      
+        <div onclick="imgfull('/img/v0l1mi/A339-YENICE-MESE.jpg')" class="wswq9bodyitem">
+          <div class="wswq9bodyitemimg">
+            <img src="/img/v0l1mi/A339-YENICE-MESE.jpg">
+          </div>
+        </div>
+      
+        <div onclick="imgfull('/img/v0l1mi/A348-IHLARA.jpg')" class="wswq9bodyitem">
+          <div class="wswq9bodyitemimg">
+            <img src="/img/v0l1mi/A348-IHLARA.jpg">
+          </div>
+        </div>
+      
+        <div onclick="imgfull('/img/v0l1mi/A351-HUS.jpg')" class="wswq9bodyitem">
+          <div class="wswq9bodyitemimg">
+            <img src="/img/v0l1mi/A351-HUS.jpg">
+          </div>
+        </div>
+      
+        <div onclick="imgfull('/img/v0l1mi/A353-TEAK.jpg')" class="wswq9bodyitem">
+          <div class="wswq9bodyitemimg">
+            <img src="/img/v0l1mi/A353-TEAK.jpg">
+          </div>
+        </div>
+      
+        <div onclick="imgfull('/img/v0l1mi/A356-ZEBRAND.jpg')" class="wswq9bodyitem">
+          <div class="wswq9bodyitemimg">
+            <img src="/img/v0l1mi/A356-ZEBRAND.jpg">
+          </div>
+        </div>
+      
+        <div onclick="imgfull('/img/v0l1mi/A363-DUMAN-MESE.jpg')" class="wswq9bodyitem">
+          <div class="wswq9bodyitemimg">
+            <img src="/img/v0l1mi/A363-DUMAN-MESE.jpg">
+          </div>
+        </div>
+      
+        <div onclick="imgfull('/img/v0l1mi/A364-MARBELLA-KIRAZ.jpg')" class="wswq9bodyitem">
+          <div class="wswq9bodyitemimg">
+            <img src="/img/v0l1mi/A364-MARBELLA-KIRAZ.jpg">
+          </div>
+        </div>
+      
+        <div onclick="imgfull('/img/v0l1mi/A366-ABANDZ.jpg')" class="wswq9bodyitem">
+          <div class="wswq9bodyitemimg">
+            <img src="/img/v0l1mi/A366-ABANDZ.jpg">
+          </div>
+        </div>
+      
+        <div onclick="imgfull('/img/v0l1mi/A369-NAPOLYON-KIRAZ.jpg')" class="wswq9bodyitem">
+          <div class="wswq9bodyitemimg">
+            <img src="/img/v0l1mi/A369-NAPOLYON-KIRAZ.jpg">
+          </div>
+        </div>
+      
+        <div onclick="imgfull('/img/v0l1mi/A373-LATIN-CEVIZ.jpg')" class="wswq9bodyitem">
+          <div class="wswq9bodyitemimg">
+            <img src="/img/v0l1mi/A373-LATIN-CEVIZ.jpg">
+          </div>
+        </div>
+      
+        <div onclick="imgfull('/img/v0l1mi/A377-ELMA.jpg')" class="wswq9bodyitem">
+          <div class="wswq9bodyitemimg">
+            <img src="/img/v0l1mi/A377-ELMA.jpg">
+          </div>
+        </div>
+      
+        <div onclick="imgfull('/img/v0l1mi/A378-ANADOLU-VECIZI.jpg')" class="wswq9bodyitem">
+          <div class="wswq9bodyitemimg">
+            <img src="/img/v0l1mi/A378-ANADOLU-VECIZI.jpg">
+          </div>
+        </div>
+      
+        <div onclick="imgfull('/img/v0l1mi/A379-BAMBU.jpg')" class="wswq9bodyitem">
+          <div class="wswq9bodyitemimg">
+            <img src="/img/v0l1mi/A379-BAMBU.jpg">
+          </div>
+        </div>
+      
+        <div onclick="imgfull('/img/v0l1mi/A380-SAMBA.jpg')" class="wswq9bodyitem">
+          <div class="wswq9bodyitemimg">
+            <img src="/img/v0l1mi/A380-SAMBA.jpg">
+          </div>
+        </div>
+      
+        <div onclick="imgfull('/img/v0l1mi/A384-METALIK-CEVIZ.jpg')" class="wswq9bodyitem">
+          <div class="wswq9bodyitemimg">
+            <img src="/img/v0l1mi/A384-METALIK-CEVIZ.jpg">
+          </div>
+        </div>
+      
+        <div onclick="imgfull('/img/v0l1mi/A385-BEYAZ-ERIK.jpg')" class="wswq9bodyitem">
+          <div class="wswq9bodyitemimg">
+            <img src="/img/v0l1mi/A385-BEYAZ-ERIK.jpg">
+          </div>
+        </div>
+      
+        <div onclick="imgfull('/img/v0l1mi/A387-MILAS.jpg')" class="wswq9bodyitem">
+          <div class="wswq9bodyitemimg">
+            <img src="/img/v0l1mi/A387-MILAS.jpg">
+          </div>
+        </div>
+      
+        <div onclick="imgfull('/img/v0l1mi/A389-MESE.jpg')" class="wswq9bodyitem">
+          <div class="wswq9bodyitemimg">
+            <img src="/img/v0l1mi/A389-MESE.jpg">
+          </div>
+        </div>
+      
+        <div onclick="imgfull('/img/v0l1mi/A393-CARMEN.jpg')" class="wswq9bodyitem">
+          <div class="wswq9bodyitemimg">
+            <img src="/img/v0l1mi/A393-CARMEN.jpg">
+          </div>
+        </div>
+      
+        <div onclick="imgfull('/img/v0l1mi/A393-DOGAL-HUS.jpg')" class="wswq9bodyitem">
+          <div class="wswq9bodyitemimg">
+            <img src="/img/v0l1mi/A393-DOGAL-HUS.jpg">
+          </div>
+        </div>
+      
+        <div onclick="imgfull('/img/v0l1mi/A394-ACIK-ZEBRAND.jpg')" class="wswq9bodyitem">
+          <div class="wswq9bodyitemimg">
+            <img src="/img/v0l1mi/A394-ACIK-ZEBRAND.jpg">
+          </div>
+        </div>
+      
+        <div onclick="imgfull('/img/v0l1mi/A395-CORDOBA.jpg')" class="wswq9bodyitem">
+          <div class="wswq9bodyitemimg">
+            <img src="/img/v0l1mi/A395-CORDOBA.jpg">
+          </div>
+        </div>
+      
+        <div onclick="imgfull('/img/v0l1mi/A397-ATLANTIS.jpg')" class="wswq9bodyitem">
+          <div class="wswq9bodyitemimg">
+            <img src="/img/v0l1mi/A397-ATLANTIS.jpg">
+          </div>
+        </div>
+      
+        <div onclick="imgfull('/img/v0l1mi/A401-BEYAZ-ALPI.jpg')" class="wswq9bodyitem">
+          <div class="wswq9bodyitemimg">
+            <img src="/img/v0l1mi/A401-BEYAZ-ALPI.jpg">
+          </div>
+        </div>
+      
+        <div onclick="imgfull('/img/v0l1mi/A402-NATUREL-MESE.jpg')" class="wswq9bodyitem">
+          <div class="wswq9bodyitemimg">
+            <img src="/img/v0l1mi/A402-NATUREL-MESE.jpg">
+          </div>
+        </div>
+      
+        <div onclick="imgfull('/img/v0l1mi/A405-PALISANDER.jpg')" class="wswq9bodyitem">
+          <div class="wswq9bodyitemimg">
+            <img src="/img/v0l1mi/A405-PALISANDER.jpg">
+          </div>
+        </div>
+      
+        <div onclick="imgfull('/img/v0l1mi/A406-MILAND.jpg')" class="wswq9bodyitem">
+          <div class="wswq9bodyitemimg">
+            <img src="/img/v0l1mi/A406-MILAND.jpg">
+          </div>
+        </div>
+      
+        <div onclick="imgfull('/img/v0l1mi/A409-TOSCANA.jpg')" class="wswq9bodyitem">
+          <div class="wswq9bodyitemimg">
+            <img src="/img/v0l1mi/A409-TOSCANA.jpg">
+          </div>
+        </div>
+      
+        <div onclick="imgfull('/img/v0l1mi/A410-VENEZIA.jpg')" class="wswq9bodyitem">
+          <div class="wswq9bodyitemimg">
+            <img src="/img/v0l1mi/A410-VENEZIA.jpg">
+          </div>
+        </div>
+      
+        <div onclick="imgfull('/img/v0l1mi/A411-KARYA.jpg')" class="wswq9bodyitem">
+          <div class="wswq9bodyitemimg">
+            <img src="/img/v0l1mi/A411-KARYA.jpg">
+          </div>
+        </div>
+      
+        <div onclick="imgfull('/img/v0l1mi/A412-ARKADYA.jpg')" class="wswq9bodyitem">
+          <div class="wswq9bodyitemimg">
+            <img src="/img/v0l1mi/A412-ARKADYA.jpg">
+          </div>
+        </div>
+      
+        <div onclick="imgfull('/img/v0l1mi/A413-ARKADYA-DARK.jpg')" class="wswq9bodyitem">
+          <div class="wswq9bodyitemimg">
+            <img src="/img/v0l1mi/A413-ARKADYA-DARK.jpg">
+          </div>
+        </div>
+      
+        <div onclick="imgfull('/img/v0l1mi/A414-ANTRASIT-MESE.jpg')" class="wswq9bodyitem">
+          <div class="wswq9bodyitemimg">
+            <img src="/img/v0l1mi/A414-ANTRASIT-MESE.jpg">
+          </div>
+        </div>
+      
+        <div onclick="imgfull('/img/v0l1mi/A415-BIANCO.jpg')" class="wswq9bodyitem">
+          <div class="wswq9bodyitemimg">
+            <img src="/img/v0l1mi/A415-BIANCO.jpg">
+          </div>
+        </div>
+      
+        <div onclick="imgfull('/img/v0l1mi/A416-NEVADA.jpg')" class="wswq9bodyitem">
+          <div class="wswq9bodyitemimg">
+            <img src="/img/v0l1mi/A416-NEVADA.jpg">
+          </div>
+        </div>
+      
+        <div onclick="imgfull('/img/v0l1mi/A417-HAVANA.jpg')" class="wswq9bodyitem">
+          <div class="wswq9bodyitemimg">
+            <img src="/img/v0l1mi/A417-HAVANA.jpg">
+          </div>
+        </div>
+      
+        <div onclick="imgfull('/img/v0l1mi/A418-ACIK-SAFIR.jpg')" class="wswq9bodyitem">
+          <div class="wswq9bodyitemimg">
+            <img src="/img/v0l1mi/A418-ACIK-SAFIR.jpg">
+          </div>
+        </div>
+      
+        <div onclick="imgfull('/img/v0l1mi/A419-KOYU-SAFIR.jpg')" class="wswq9bodyitem">
+          <div class="wswq9bodyitemimg">
+            <img src="/img/v0l1mi/A419-KOYU-SAFIR.jpg">
+          </div>
+        </div>
+      
+        <div onclick="imgfull('/img/v0l1mi/A420-SAHARA.jpg')" class="wswq9bodyitem">
+          <div class="wswq9bodyitemimg">
+            <img src="/img/v0l1mi/A420-SAHARA.jpg">
+          </div>
+        </div>
+      
+        <div onclick="imgfull('/img/v0l1mi/D102-BEJ.jpg')" class="wswq9bodyitem">
+          <div class="wswq9bodyitemimg">
+            <img src="/img/v0l1mi/D102-BEJ.jpg">
+          </div>
+        </div>
+      
+        <div onclick="imgfull('/img/v0l1mi/D104-FILDISI.jpg')" class="wswq9bodyitem">
+          <div class="wswq9bodyitemimg">
+            <img src="/img/v0l1mi/D104-FILDISI.jpg">
+          </div>
+        </div>
+      
+        <div onclick="imgfull('/img/v0l1mi/D107-SIYAH.jpg')" class="wswq9bodyitem">
+          <div class="wswq9bodyitemimg">
+            <img src="/img/v0l1mi/D107-SIYAH.jpg">
+          </div>
+        </div>
+      
+        <div onclick="imgfull('/img/v0l1mi/D108-MAVI.jpg')" class="wswq9bodyitem">
+          <div class="wswq9bodyitemimg">
+            <img src="/img/v0l1mi/D108-MAVI.jpg">
+          </div>
+        </div>
+      
+        <div onclick="imgfull('/img/v0l1mi/D109-LACIVERT.jpg')" class="wswq9bodyitem">
+          <div class="wswq9bodyitemimg">
+            <img src="/img/v0l1mi/D109-LACIVERT.jpg">
+          </div>
+        </div>
+      
+        <div onclick="imgfull('/img/v0l1mi/D114-TURUNCU.jpg')" class="wswq9bodyitem">
+          <div class="wswq9bodyitemimg">
+            <img src="/img/v0l1mi/D114-TURUNCU.jpg">
+          </div>
+        </div>
+      
+        <div onclick="imgfull('/img/v0l1mi/D116-METALIK-GRI.jpg')" class="wswq9bodyitem">
+          <div class="wswq9bodyitemimg">
+            <img src="/img/v0l1mi/D116-METALIK-GRI.jpg">
+          </div>
+        </div>
+      
+        <div onclick="imgfull('/img/v0l1mi/D117-KIRMIZI.jpg')" class="wswq9bodyitem">
+          <div class="wswq9bodyitemimg">
+            <img src="/img/v0l1mi/D117-KIRMIZI.jpg">
+          </div>
+        </div>
+      
+        <div onclick="imgfull('/img/v0l1mi/D118-ELVIRA.jpg')" class="wswq9bodyitem">
+          <div class="wswq9bodyitemimg">
+            <img src="/img/v0l1mi/D118-ELVIRA.jpg">
+          </div>
+        </div>
+      
+        <div onclick="imgfull('/img/v0l1mi/D120-PEMBE.jpg')" class="wswq9bodyitem">
+          <div class="wswq9bodyitemimg">
+            <img src="/img/v0l1mi/D120-PEMBE.jpg">
+          </div>
+        </div>
+      
+        <div onclick="imgfull('/img/v0l1mi/D122-VIZON.jpg')" class="wswq9bodyitem">
+          <div class="wswq9bodyitemimg">
+            <img src="/img/v0l1mi/D122-VIZON.jpg">
+          </div>
+        </div>
+      
+        <div onclick="imgfull('/img/v0l1mi/D123-ACIK-GRI.jpg')" class="wswq9bodyitem">
+          <div class="wswq9bodyitemimg">
+            <img src="/img/v0l1mi/D123-ACIK-GRI.jpg">
+          </div>
+        </div>
+      
+        <div onclick="imgfull('/img/v0l1mi/D125-SEKER-PEMBE.jpg')" class="wswq9bodyitem">
+          <div class="wswq9bodyitemimg">
+            <img src="/img/v0l1mi/D125-SEKER-PEMBE.jpg">
+          </div>
+        </div>
+      
+        <div onclick="imgfull('/img/v0l1mi/D126-CAPUCCINO.jpg')" class="wswq9bodyitem">
+          <div class="wswq9bodyitemimg">
+            <img src="/img/v0l1mi/D126-CAPUCCINO.jpg">
+          </div>
+        </div>
+      
+        <div onclick="imgfull('/img/v0l1mi/D129-LAKE-BEYAZ.jpg')" class="wswq9bodyitem">
+          <div class="wswq9bodyitemimg">
+            <img src="/img/v0l1mi/D129-LAKE-BEYAZ.jpg">
+          </div>
+        </div>
+      
+        <div onclick="imgfull('/img/v0l1mi/D129-LEKE-BEYAZ.jpg')" class="wswq9bodyitem">
+          <div class="wswq9bodyitemimg">
+            <img src="/img/v0l1mi/D129-LEKE-BEYAZ.jpg">
+          </div>
+        </div>
+      
+        <div onclick="imgfull('/img/v0l1mi/D133-KOYU-SARI.jpg')" class="wswq9bodyitem">
+          <div class="wswq9bodyitemimg">
+            <img src="/img/v0l1mi/D133-KOYU-SARI.jpg">
+          </div>
+        </div>
+      
+        <div onclick="imgfull('/img/v0l1mi/D134-PASTEL-YASIL.jpg')" class="wswq9bodyitem">
+          <div class="wswq9bodyitemimg">
+            <img src="/img/v0l1mi/D134-PASTEL-YASIL.jpg">
+          </div>
+        </div>
+      
+        <div onclick="imgfull('/img/v0l1mi/D135-VERDE.jpg')" class="wswq9bodyitem">
+          <div class="wswq9bodyitemimg">
+            <img src="/img/v0l1mi/D135-VERDE.jpg">
+          </div>
+        </div>
+      
+        <div onclick="imgfull('/img/v0l1mi/D138-LILA.jpg')" class="wswq9bodyitem">
+          <div class="wswq9bodyitemimg">
+            <img src="/img/v0l1mi/D138-LILA.jpg">
+          </div>
+        </div>
+      
+        <div onclick="imgfull('/img/v0l1mi/D140-KUM-TASI.jpg')" class="wswq9bodyitem">
+          <div class="wswq9bodyitemimg">
+            <img src="/img/v0l1mi/D140-KUM-TASI.jpg">
+          </div>
+        </div>
+      
+        <div onclick="imgfull('/img/v0l1mi/D143-ANTRASIT.jpg')" class="wswq9bodyitem">
+          <div class="wswq9bodyitemimg">
+            <img src="/img/v0l1mi/D143-ANTRASIT.jpg">
+          </div>
+        </div>
+      
+        <div onclick="imgfull('/img/v0l1mi/D144-KRAFT.jpg')" class="wswq9bodyitem">
+          <div class="wswq9bodyitemimg">
+            <img src="/img/v0l1mi/D144-KRAFT.jpg">
+          </div>
+        </div>
+      
+        <div onclick="imgfull('/img/v0l1mi/D145-BRONZ.jpg')" class="wswq9bodyitem">
+          <div class="wswq9bodyitemimg">
+            <img src="/img/v0l1mi/D145-BRONZ.jpg">
+          </div>
+        </div>
+      
+        <div onclick="imgfull('/img/v0l1mi/D146-HARDAL.jpg')" class="wswq9bodyitem">
+          <div class="wswq9bodyitemimg">
+            <img src="/img/v0l1mi/D146-HARDAL.jpg">
+          </div>
+        </div>
+      
+        <div onclick="imgfull('/img/v0l1mi/D149-MERLO.jpg')" class="wswq9bodyitem">
+          <div class="wswq9bodyitemimg">
+            <img src="/img/v0l1mi/D149-MERLO.jpg">
+          </div>
+        </div>
+      
+        <div onclick="imgfull('/img/v0l1mi/D152-OPAK-BEYAZ.jpg')" class="wswq9bodyitem">
+          <div class="wswq9bodyitemimg">
+            <img src="/img/v0l1mi/D152-OPAK-BEYAZ.jpg">
+          </div>
+        </div>
+      
+        <div onclick="imgfull('/img/v0l1mi/D153-BAKIR.jpg')" class="wswq9bodyitem">
+          <div class="wswq9bodyitemimg">
+            <img src="/img/v0l1mi/D153-BAKIR.jpg">
+          </div>
+        </div>
+      
+        <div onclick="imgfull('/img/v0l1mi/D157-SIYAH-GALAXY.jpg')" class="wswq9bodyitem">
+          <div class="wswq9bodyitemimg">
+            <img src="/img/v0l1mi/D157-SIYAH-GALAXY.jpg">
+          </div>
+        </div>
+      
+        <div onclick="imgfull('/img/v0l1mi/D158-KAHVE-GALAXY.jpg')" class="wswq9bodyitem">
+          <div class="wswq9bodyitemimg">
+            <img src="/img/v0l1mi/D158-KAHVE-GALAXY.jpg">
+          </div>
+        </div>
+      
+        <div onclick="imgfull('/img/v0l1mi/D159-KARAMEL-GALAXY.jpg')" class="wswq9bodyitem">
+          <div class="wswq9bodyitemimg">
+            <img src="/img/v0l1mi/D159-KARAMEL-GALAXY.jpg">
+          </div>
+        </div>
+      
+        <div onclick="imgfull('/img/v0l1mi/D160-AYTASI.jpg')" class="wswq9bodyitem">
+          <div class="wswq9bodyitemimg">
+            <img src="/img/v0l1mi/D160-AYTASI.jpg">
+          </div>
+        </div>
+      
+        <div onclick="imgfull('/img/v0l1mi/D161-DAFNE.jpg')" class="wswq9bodyitem">
+          <div class="wswq9bodyitemimg">
+            <img src="/img/v0l1mi/D161-DAFNE.jpg">
+          </div>
+        </div>
+      
+        <div onclick="imgfull('/img/v0l1mi/F236-KOTON-VIZON.jpg')" class="wswq9bodyitem">
+          <div class="wswq9bodyitemimg">
+            <img src="/img/v0l1mi/F236-KOTON-VIZON.jpg">
+          </div>
+        </div>
+      
+        <div onclick="imgfull('/img/v0l1mi/F237-KOTON-LATTE.jpg')" class="wswq9bodyitem">
+          <div class="wswq9bodyitemimg">
+            <img src="/img/v0l1mi/F237-KOTON-LATTE.jpg">
+          </div>
+        </div>
+      
+        <div onclick="imgfull('/img/v0l1mi/F238-TREND-GRI.jpg')" class="wswq9bodyitem">
+          <div class="wswq9bodyitemimg">
+            <img src="/img/v0l1mi/F238-TREND-GRI.jpg">
+          </div>
+        </div>
+      
+        <div onclick="imgfull('/img/v0l1mi/F239-TREND-BEJ.jpg')" class="wswq9bodyitem">
+          <div class="wswq9bodyitemimg">
+            <img src="/img/v0l1mi/F239-TREND-BEJ.jpg">
+          </div>
+        </div>
+      
+        <div onclick="imgfull('/img/v0l1mi/F240-BEYAZ-MATRIX.jpg')" class="wswq9bodyitem">
+          <div class="wswq9bodyitemimg">
+            <img src="/img/v0l1mi/F240-BEYAZ-MATRIX.jpg">
+          </div>
+        </div>
+      
+        <div onclick="imgfull('/img/v0l1mi/F241-SIYAH-MATRIX.jpg')" class="wswq9bodyitem">
+          <div class="wswq9bodyitemimg">
+            <img src="/img/v0l1mi/F241-SIYAH-MATRIX.jpg">
+          </div>
+        </div>
+      
+        <div onclick="imgfull('/img/v0l1mi/F242-FLOWER.jpg')" class="wswq9bodyitem">
+          <div class="wswq9bodyitemimg">
+            <img src="/img/v0l1mi/F242-FLOWER.jpg">
+          </div>
+        </div>
+      
+        <div onclick="imgfull('/img/v0l1mi/F243-NOVA.jpg')" class="wswq9bodyitem">
+          <div class="wswq9bodyitemimg">
+            <img src="/img/v0l1mi/F243-NOVA.jpg">
+          </div>
+        </div>
+      
+        <div onclick="imgfull('/img/v0l1mi/F244-GRI-MATRIX.jpg')" class="wswq9bodyitem">
+          <div class="wswq9bodyitemimg">
+            <img src="/img/v0l1mi/F244-GRI-MATRIX.jpg">
+          </div>
+        </div>
+      
+        <div onclick="imgfull('/img/v0l1mi/F245-KUVARS.jpg')" class="wswq9bodyitem">
+          <div class="wswq9bodyitemimg">
+            <img src="/img/v0l1mi/F245-KUVARS.jpg">
+          </div>
+        </div>
+      </div>
+</div>
+<style>
+  .wswq9 {
+    margin-top: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .wswq9body {
+    width: var(--max);
+    display: grid;
+    gap: 15px;
+    grid-template-columns: repeat(4, 1fr);
+  }
+  .wswq9bodyitem {
+    cursor: pointer;
+    background-color: #e9e9e9;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    padding: 15px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    transition:
+      box-shadow 0.3s ease,
+      transform 0.3s ease;
+    gap: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .wswq9bodyitem:hover {
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+    transform: translateY(-3px);
+  }
+  .wswq9bodyitemimg {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .wswq9bodyitemimg img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    border-radius: 5px;
+  }
+  .wswq9bodyitemtitle {
+    padding: 8px;
+    background-color: #e5e5e5;
+    text-align: center;
+    color: #333;
+    font-weight: bold;
+    font-size: 16px;
+  }
+  @media screen and (max-width: 1024px) {
+    .wswq9body {
+      width: calc(100% - 20px);
+      margin: 0 10px;
+      grid-template-columns: repeat(3, 1fr);
+    }
+  }
+  @media screen and (max-width: 768px) {
+    .wswq9body {
+      width: calc(100% - 20px);
+      margin: 0 10px;
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+</style>
+</div>
+    <div id="footer"><footer class="footer">
+  <div class="waves">
+    <div class="wave" id="wave1"></div>
+    <div class="wave" id="wave2"></div>
+    <div class="wave" id="wave3"></div>
+    <div class="wave" id="wave4"></div>
+  </div>
+  <ul class="social-icon">
+    <li class="social-icon__item">
+      <a class="social-icon__link" href="#">
+        <ion-icon name="logo-facebook"></ion-icon>
+      </a>
+    </li>
+    <li class="social-icon__item">
+      <a class="social-icon__link" href="#">
+        <ion-icon name="logo-twitter"></ion-icon>
+      </a>
+    </li>
+    <li class="social-icon__item">
+      <a class="social-icon__link" href="#">
+        <ion-icon name="logo-linkedin"></ion-icon>
+      </a>
+    </li>
+    <li class="social-icon__item">
+      <a class="social-icon__link" href="#">
+        <ion-icon name="logo-instagram"></ion-icon>
+      </a>
+    </li>
+  </ul>
+  <ul class="menu">
+    <li class="menu__item"><a class="menu__link" href="/ar">الصفحة الرئيسية</a></li><li class="menu__item"><a class="menu__link" href="/ar/kurumsal">المؤسسية</a></li><li class="menu__item"><a class="menu__link" href="/ar/insaat-urunlerim"></a></li><li class="menu__item"><a class="menu__link" href="/ar/kozmetik-urunlerimiz">منتجاتنا التجميلية</a></li><li class="menu__item"><a class="menu__link" href="/ar/iletisim">تواصل</a></li><li class="menu__item"><a class="menu__link" href="/ar/hakkimizda">معلومات عنا</a></li><li class="menu__item"><a class="menu__link" href="/ar/vizyon">رؤية</a></li><li class="menu__item"><a class="menu__link" href="/ar/misyon">مهمة</a></li><li class="menu__item"><a class="menu__link" href="/ar/degerlerimiz">قيمنا</a></li><li class="menu__item"><a class="menu__link" href="/ar/kalite-politikamiz">سياسة الجودة لدينا</a></li><li class="menu__item"><a class="menu__link" href="/ar/kisisel-veriler">البيانات الشخصية</a></li><li class="menu__item"><a class="menu__link" href="/ar/yasal-uyari">إشعار قانوني</a></li><li class="menu__item"><a class="menu__link" href="/ar/cerez-politikasi">سياسة ملفات تعريف الارتباط</a></li>
+  </ul>
+  <p>Makbaş 2024 cognite. &copy;</p>
+</footer>
+<style>
+  .footer {
+    position: relative;
+    background: #1e3046;
+    padding: 20px 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 120px;
+  }
+  .social-icon,
+  .menu {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px 0;
+    flex-wrap: wrap;
+  }
+  .social-icon__item,
+  .menu__item {
+    list-style: none;
+  }
+  .social-icon__link {
+    font-size: 2rem;
+    color: #fff;
+    margin: 0 10px;
+    display: inline-block;
+    transition: 0.5s;
+  }
+  .social-icon__link:hover {
+    transform: translateY(-10px);
+  }
+  .menu__link {
+    font-size: 1.2rem;
+    color: #fff !important;
+    margin: 0 10px;
+    display: inline-block;
+    transition: 0.5s;
+    text-decoration: none;
+    opacity: 0.75;
+    font-weight: 300;
+  }
+  .menu__link:hover {
+    opacity: 1;
+  }
+  .footer p {
+    color: #fff;
+    margin: 15px 0 10px 0;
+    font-size: 1rem;
+    font-weight: 300;
+  }
+  .wave {
+    position: absolute;
+    top: -100px;
+    left: 0;
+    width: 100%;
+    height: 100px;
+    background-image: url("data:image/svg+xml,%3Csvg version='1.0' id='katman_1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' viewBox='0 0 640 65' style='enable-background:new 0 0 640 65;' xml:space='preserve'%3E%3Cstyle type='text/css'%3E .st0%7Bfill:%231e3046;%7D %3C/style%3E %3Cpath class='st0' d='M0,22.4C0,22.4,74.1,0,153,0c176.5,0,328.1,76.6,487,22.4V65H0V22.4z'/%3E%3C/svg%3E");
+    background-size: 1000px 102px;
+  }
+  .wave#wave1 {
+    z-index: 1000;
+    opacity: 1;
+    bottom: 0;
+    animation: animateWaves 4s linear infinite;
+  }
+  .wave#wave2 {
+    z-index: 999;
+    opacity: 0.5;
+    bottom: 10px;
+    animation: animate 4s linear infinite !important;
+  }
+  .wave#wave3 {
+    z-index: 1000;
+    opacity: 0.2;
+    bottom: 15px;
+    animation: animateWaves 3s linear infinite;
+  }
+  .wave#wave4 {
+    z-index: 999;
+    opacity: 0.7;
+    bottom: 20px;
+    animation: animate 3s linear infinite;
+  }
+  @keyframes animateWaves {
+    0% {
+      background-position-x: 1000px;
+    }
+    100% {
+      background-positon-x: 0px;
+    }
+  }
+  @keyframes animate {
+    0% {
+      background-position-x: -1000px;
+    }
+    100% {
+      background-positon-x: 0px;
+    }
+  }
+</style>
+</div>
+  </body>
+  <link
+    rel="stylesheet"
+    href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200"
+  />
+  
+  <script type="text/javascript" src="/src/js.js?id=1001"></script>
+</html>

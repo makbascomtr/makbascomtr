@@ -16,8 +16,8 @@
   },
   "description": {
     "tr": "Makbaş LTD.ŞTİ. olarak, kalite politikamız müşterilerimizin memnuniyetine odaklanmıştır. Kalite standartlarımızın en yüksek seviyede tutmak için çalışıyoruz.",
-    "en": "Makbaş LTD.ŞTİ. ",
-    "ar": "Makbaş LTD.ŞTİ. "
+    "en": "Our quality policy focuses on customer satisfaction and continuous improvement. Makbaş construction and cosmetics export.",
+    "ar": "تركز سياسة الجودة لدينا على رضا العملاء والتحسين المستمر. تصدير بناء وتجميل ماكباش."
   },
   "text": {
     "tr": "<main>\n    <section class=\"flexColumn gap5 f16 quality-policy-section\">\n        <h1>Kalite Politikamız</h1>\n        <p><strong>En Yüksek Kalite Standartlarına Ulaşma Taahhüdü</strong></p>\n        <p>Makbaş LTD.ŞTİ., kaliteyi iş süreçlerinin merkezine koymuş ve müşterilerimize en iyi ürün ve hizmeti sunmayı taahhüt etmiştir. Kalite politikamız, müşteri memnuniyetini sağlamak ve sektördeki en yüksek standartlara ulaşmak için belirlenen temel prensiplere dayanmaktadır.</p>\n        <p><strong>Kalite Politikamızın Temel Prensipleri:</strong></p>\n        <ul>\n            <li><strong>Müşteri Odaklılık:</strong> Müşteri ihtiyaç ve beklentilerini anlamak ve karşılamak için sürekli olarak geri bildirim toplar ve iyileştirme yaparız. Müşteri memnuniyetini ön planda tutarız.</li>\n            <li><strong>Kalite Yönetim Sistemi:</strong> Kaliteyi sürekli olarak iyileştirmek için uluslararası standartlara uygun bir kalite yönetim sistemi uygularız. Sürekli eğitim ve gelişim ile tüm çalışanlarımızı bu sisteme dahil ederiz.</li>\n            <li><strong>Standartlara Uygunluk:</strong> Ürün ve hizmetlerimizin kalite standartlarına uygunluğunu sağlamak için sıkı kontrol ve denetim süreçleri uygularız. Bu süreçler, kalite hedeflerimizi karşılamak için düzenli olarak gözden geçirilir.</li>\n            <li><strong>Yenilikçilik ve Sürekli İyileştirme:</strong> İş süreçlerimizi ve ürünlerimizi sürekli olarak gözden geçirir, yenilikçi çözümler arar ve iyileştirmeler yaparız. Kaliteyi artırma amacıyla en iyi uygulamaları takip ederiz.</li>\n            <li><strong>Şeffaflık ve Dürüstlük:</strong> Kalite süreçlerimizde şeffaflık ve dürüstlük ilkesini benimseriz. Tüm faaliyetlerimizde açık iletişim ve etik davranışlar sergileriz.</li>\n        </ul>\n        <p>Kalite politikamız, Makbaş’ın sektördeki başarısının temelini oluşturur. Bu politikayı sürekli olarak gözden geçirir ve iyileştiririz, böylece müşteri memnuniyetini ve kalite standartlarını her zaman en yüksek seviyede tutarız.</p>\n    </section>\n</main>",
@@ -34,7 +34,7 @@
     "footer": []
   },
   "bgimg": "c3bdc.jpg",
-  "update": "2026-02-20T01:06:57.401Z",
+  "update": "2026-02-20T02:08:56.413Z",
   "date": "2026-02-20T01:06:55.370Z",
   "title": {
     "tr": "Kalite Politikamız",

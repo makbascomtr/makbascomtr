@@ -10,14 +10,14 @@
   "externalUrl": "",
   "path": "insaat-urunlerimiz",
   "keyword": {
-    "tr": "",
-    "en": "",
-    "ar": ""
+    "tr": "inşaat ürünleri, alüminyum, MDF, kapı, yapı malzemesi, ihracat",
+    "en": "construction products, aluminum, MDF, door, building materials, export",
+    "ar": "منتجات البناء، ألومنيوم، MDF، باب، مواد بناء، تصدير"
   },
   "description": {
-    "tr": "",
-    "en": "",
-    "ar": ""
+    "tr": "Makbaş inşaat ürünleri kataloğu: alüminyum sistemler, MDF, kapı ürünleri ve yapı malzemeleri. İhracat odaklı kaliteli ürünler.",
+    "en": "Makbaş construction products catalogue: aluminum systems, MDF, door products and building materials. Export-oriented quality products.",
+    "ar": "كتالوج منتجات بناء ماكباش: أنظمة ألومنيوم، MDF، منتجات الأبواب ومواد البناء. منتجات عالية الجودة للتصدير."
   },
   "text": {
     "tr": "",
@@ -33,7 +33,7 @@
     ],
     "footer": []
   },
-  "update": "2026-02-20T01:06:57.345Z",
+  "update": "2026-02-20T02:08:56.348Z",
   "date": "2026-02-20T01:06:55.303Z",
   "title": {
     "tr": "İnşaat Ürünlerimiz",

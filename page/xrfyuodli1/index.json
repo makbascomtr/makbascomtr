@@ -16,8 +16,8 @@
   },
   "description": {
     "tr": "Makbaş LTD.ŞTİ. olarak, sizlerin kişisel verilerini korumaya çalışıyoruz. Gizlilik politikamız kapsamında, sizlerin verilerini nasıl koruduğumuzu ve kullandığımızı bu sayfada bulabilirsiniz.",
-    "en": "Makbaş LTD.ŞTİ. ",
-    "ar": "Makbaş LTD.ŞTİ. "
+    "en": "Personal data and privacy policy. How Makbaş protects and uses your data. GDPR and data protection.",
+    "ar": "البيانات الشخصية وسياسة الخصوصية. كيف تحمي ماكباش بياناتك وتستخدمها. حماية البيانات."
   },
   "text": {
     "tr": "<main>\n    <section class=\"flexColumn gap5 f16 personal-data-section\">\n        <h1>Kişisel Veriler</h1>\n        <p><strong>Kişisel Verilerin Korunması ve Yönetimi</strong></p>\n        <p>Makbaş LTD.ŞTİ., kişisel verilerin korunmasını en yüksek öncelik olarak kabul eder ve bu konuda gerekli tüm tedbirleri alır. Kişisel verilerinizin güvenliğini sağlamak ve gizliliğinizi korumak amacıyla yürüttüğümüz politikalar aşağıda açıklanmıştır:</p>\n        <h2>Veri Toplama ve Kullanma</h2>\n        <p>Kişisel veriler, sadece yasal çerçevede ve belirli amaçlar doğrultusunda toplanır. Topladığımız veriler şunları içerebilir:</p>\n        <ul>\n            <li>İletişim bilgileri (ad, soyad, e-posta adresi, telefon numarası)</li>\n            <li>Şirketimizle yapılan işlemler ve satın alımlar hakkında bilgiler</li>\n            <li>Web sitemizi ziyaret ettiğinizde topladığımız teknik veriler (IP adresi, tarayıcı bilgileri)</li>\n        </ul>\n        <h2>Veri Güvenliği</h2>\n        <p>Kişisel verilerinizin güvenliğini sağlamak için gerekli teknik ve idari önlemleri alıyoruz. Verilerinizin yetkisiz erişim, kullanım, değişiklik veya kayıptan korunması için çeşitli güvenlik protokolleri uygulamaktayız.</p>\n        <h2>Veri Saklama</h2>\n        <p>Kişisel verilerinizi yalnızca gerekli olduğu sürece ve yasal gerekliliklere uygun olarak saklarız. Verilerinizin saklama süresi, ilgili mevzuat ve iş gereksinimlerine göre belirlenir.</p>\n        <h2>Veri Paylaşımı</h2>\n        <p>Kişisel verileriniz, yalnızca yasal yükümlülüklerimiz veya hizmetlerimizi sağlamak amacıyla işbirliği yaptığımız üçüncü taraflarla paylaşılabilir. Verilerinizi paylaşmadan önce gerekli güvenlik önlemleri alınır ve gizliliğiniz korunur.</p>\n        <h2>Haklarınız</h2>\n        <p>Kişisel verilerinizle ilgili olarak aşağıdaki haklara sahipsiniz:</p>\n        <ul>\n            <li>Verilerinize erişim hakkı</li>\n            <li>Verilerin düzeltilmesi hakkı</li>\n            <li>Verilerin silinmesi hakkı</li>\n            <li>Veri işleme faaliyetlerine itiraz etme hakkı</li>\n        </ul>\n        <p>Bu haklarınızı kullanmak veya daha fazla bilgi almak için bizimle iletişime geçebilirsiniz.</p>\n        <h2>İletişim</h2>\n        <p>Kişisel verilerinizle ilgili sorularınız veya endişeleriniz varsa, lütfen aşağıdaki iletişim bilgileri aracılığıyla bizimle iletişime geçin:</p>\n        <p><strong>Makbaş LTD.ŞTİ.</strong><br>\n    </section>\n</main>",
@@ -34,7 +34,7 @@
     "footer": []
   },
   "bgimg": "qto1t.jpg",
-  "update": "2026-02-20T01:06:57.413Z",
+  "update": "2026-02-20T02:08:56.424Z",
   "date": "2026-02-20T01:06:55.379Z",
   "title": {
     "tr": "Kişisel Veriler",

@@ -11,14 +11,14 @@
   "path": "kurumsal",
   "bgimg": "bg.jpg",
   "keyword": {
-    "tr": "makbaş, ltd, şti, kurumsal",
-    "en": "makbaş, ltd, şti, corporate",
-    "ar": "ماكباش، المحدودة، şti، الشركات"
+    "tr": "Makbaş, kurumsal, inşaat, kozmetik, ihracat, 2001, ticaret",
+    "en": "Makbas, corporate, construction, cosmetics, export, trade",
+    "ar": "ماكباش، مؤسسي، بناء، مستحضرات تجميل، تصدير، تجارة"
   },
   "description": {
     "tr": "Makbaş LTD.ŞTİ. olarak girişimciliğine 2001 yılında başlamış olup alım satım ile ticaretini sürdürmekte, ağırlıklı olarak ihracat yapmaktayız.",
-    "en": "Makbaş LTD.ŞTİ. ",
-    "ar": "Makbaş LTD.ŞTİ. "
+    "en": "Makbaş LTD.ŞTİ. started in 2001 and continues trading with a focus on export in construction and cosmetics. Quality brands and reliable service.",
+    "ar": "بدأت ماكباش المحدودة في 2001 وتواصل التجارة مع التركيز على التصدير في البناء ومستحضرات التجميل. علامات جودة وخدمة موثوقة."
   },
   "text": {
     "tr": "<main>\n        <section class=\"flexColumn gap5 f16\">\n            <h1>Makbaş Hakkında</h1>\n            <p><strong>2001'den Beri Pazarın Lider İhracat Markası</strong></p>\n            <p>Makbaş LTD.ŞTİ., 2001 yılında ticaret hayatına adım atarak, sektördeki yerini sağlamlaştırmış bir girişimcilik örneğidir. Kuruluşumuz, ilk adımlarını atarken alım satım ve ticaret alanında hizmet vermeye başlamış ve hızla büyüyerek, ihracat odaklı bir şirket haline gelmiştir. Günümüzde inşaat ve kozmetik sektörlerinde faaliyet göstermekteyiz ve bu iki sektörde de yüksek standartlarda ürün ve hizmet sunmaktayız.</p>\n            <p>İhracat alanındaki başarımız, kalite ve müşteri memnuniyeti odaklı yaklaşımımızın bir sonucudur. Şirketimiz, uluslararası pazarlarda güçlü bir yer edinmek için kaliteyi her zaman ön planda tutmuştur. Sektörümüzde \"Kaliteli Markalar ve Güvenilir Hizmet\" parolasıyla başladığımız bu yolculuk, müşteri memnuniyetini temel ilkemiz olarak kabul ederek şekillenmiştir. Bu ilke doğrultusunda, üretici ve tüketici arasında bir köprü olma sorumluluğuyla hareket etmekteyiz.</p>\n            <p>Makbaş, sektöründeki rekabeti her zaman yüksek standartlarla karşılamış ve bu sayede 2008 yılından bu yana ihracat rekortmenleri arasında yer almayı başarmıştır. Yenilikçi ve disiplinli çalışma anlayışımız, bizi sektördeki diğer oyunculardan ayıran en önemli özelliklerimizden biridir. İhracat yaptığımız ülkelerde kalite ve hizmetten ödün vermeden, müşteri memnuniyetini her zaman en ön planda tutarak başarıya ulaşmış bulunmaktayız.</p>\n            <p>Kuruluşumuzun vizyonu, global arenada en güvenilir ve kaliteli marka olarak tanınmaktır. Bu hedefe ulaşmak için, sürekli olarak sektördeki yenilikleri takip ediyor ve uyguluyoruz. Misyonumuz ise, müşteri memnuniyetini her zaman en yüksek seviyede tutarak, sektördeki en güncel gelişmeleri ve trendleri takip etmektir. Makbaş olarak, iş süreçlerimizi sürekli olarak iyileştirmeyi ve müşteri beklentilerini aşmayı hedefliyoruz.</p>\n        </section>\n       \n    </main>",
@@ -34,7 +34,7 @@
     "footer": []
   },
   "desc": {},
-  "update": "2026-02-20T01:06:57.337Z",
+  "update": "2026-02-20T02:08:56.340Z",
   "date": "2026-02-20T01:06:55.290Z",
   "title": {
     "tr": "Kurumsal",

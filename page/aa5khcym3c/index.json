@@ -10,14 +10,14 @@
   "externalUrl": "",
   "path": "lastik",
   "keyword": {
-    "tr": "",
-    "en": "",
-    "ar": ""
+    "tr": "Makbaş, Lastik Conta, inşaat, yapı malzemesi, ihracat, alüminyum, kapı, pencere",
+    "en": "Makbas, Tyre, construction, building materials, export, aluminum, door, window",
+    "ar": "ماكباش، صور, بناء، مواد بناء، تصدير، ألومنيوم، باب، نافذة"
   },
   "description": {
-    "tr": "",
-    "en": "",
-    "ar": ""
+    "tr": "Makbaş Lastik Conta. İnşaat ve yapı malzemeleri. İhracat kalitesi, güvenilir tedarik.",
+    "en": "Makbaş Tyre. Construction and building materials. Export quality, reliable supply.",
+    "ar": "ماكباش صور. مواد بناء وإنشاء. جودة التصدير، إمداد موثوق."
   },
   "desc": {},
   "desing": {
@@ -94,7 +94,7 @@
       "img": "vb-1-225x300.webp"
     }
   ],
-  "update": "2026-02-20T01:06:57.527Z",
+  "update": "2026-02-20T02:08:56.549Z",
   "date": "2026-02-20T01:06:55.502Z",
   "title": {
     "tr": "Lastik Conta",

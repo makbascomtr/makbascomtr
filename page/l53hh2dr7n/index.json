@@ -16,8 +16,8 @@
   },
   "description": {
     "tr": "Makbaş LTD.ŞTİ. olarak, inşaat ve kozmetik sektörlerinde faaliyet gösteriyoruz. Hakkımızda sayfasında, şirket tarihçemiz, misyonumuz ve vizyonumuz hakkında bilgi alabilirsiniz.",
-    "en": "Makbaş LTD.ŞTİ. ",
-    "ar": "Makbaş LTD.ŞTİ. "
+    "en": "Our vision: to be the most reliable and high-quality brand globally. Makbaş since 2001. Construction and cosmetics export.",
+    "ar": "رؤيتنا: أن نكون العلامة الأكثر موثوقية وجودة عالمياً. ماكباش منذ 2001. تصدير البناء ومستحضرات التجميل."
   },
   "text": {
     "tr": "<main>\n    <section class=\"flexColumn gap5 f16 vision-section\">\n        <h1>Vizyonumuz</h1>\n        <p><strong>Global Arenada Güvenilir ve Kaliteli Marka</strong></p>\n        <p>Makbaş LTD.ŞTİ., 2001 yılından bu yana sektördeki liderliğini sürdürmektedir. Vizyonumuz, global arenada en güvenilir ve kaliteli marka olarak tanınmaktır. Bu hedefe ulaşmak için sürekli olarak sektördeki yenilikleri takip ediyor ve uyguluyoruz.</p>\n        <p>Yüksek kalite standartlarımız ve müşteri memnuniyeti odaklı yaklaşımımız, bizi sektördeki diğer oyunculardan ayıran en önemli özelliklerimizdir. İhracat yaptığımız ülkelerde, kalite ve hizmetten ödün vermeden, müşteri memnuniyetini her zaman en ön planda tutarak başarımızı sürdürüyoruz.</p>\n        <p>Vizyonumuzu gerçekleştirmek adına, iş süreçlerimizi sürekli olarak iyileştirmeyi ve müşteri beklentilerini aşmayı hedefliyoruz. Makbaş olarak, sektörümüzdeki en güncel gelişmeleri ve trendleri takip ederek, en yüksek müşteri memnuniyetini sağlamak için çalışıyoruz.</p>\n        <p>Bu vizyon doğrultusunda, global pazarlarda güçlü bir yer edinmek ve sektördeki en iyi uygulamaları hayata geçirmek için durmaksızın çalışıyoruz. Makbaş’ın uluslararası alandaki başarısını daha da ileriye taşımak için, tüm enerjimizi ve kaynaklarımızı bu hedefe odaklıyoruz.</p>\n    </section>\n</main>",
@@ -34,7 +34,7 @@
     "footer": []
   },
   "bgimg": "y63ay.jpg",
-  "update": "2026-02-20T01:06:57.369Z",
+  "update": "2026-02-20T02:08:56.382Z",
   "date": "2026-02-20T01:06:55.343Z",
   "title": {
     "tr": "Vizyon",

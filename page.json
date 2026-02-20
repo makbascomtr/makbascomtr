@@ -12,8 +12,8 @@
       "path": "kurumsal",
       "description": {
         "tr": "Makbaş LTD.ŞTİ. olarak girişimciliğine 2001 yılında başlamış olup alım satım ile ticaretini sürdürmekte, ağırlıklı olarak ihracat yapmaktayız.",
-        "en": "Makbaş LTD.ŞTİ. ",
-        "ar": "Makbaş LTD.ŞTİ. "
+        "en": "Makbaş LTD.ŞTİ. started in 2001 and continues trading with a focus on export in construction and cosmetics. Quality brands and reliable service.",
+        "ar": "بدأت ماكباش المحدودة في 2001 وتواصل التجارة مع التركيز على التصدير في البناء ومستحضرات التجميل. علامات جودة وخدمة موثوقة."
       },
       "index": 0,
       "desing": {
@@ -23,8 +23,7 @@
         ],
         "footer": []
       },
-      "desc": {},
-      "icon": "home"
+      "desc": {}
     },
     {
       "name": {
@@ -37,9 +36,9 @@
       "id": "sb0lffumc4",
       "path": "insaat-urunlerimiz",
       "description": {
-        "tr": "",
-        "en": "",
-        "ar": ""
+        "tr": "Makbaş inşaat ürünleri kataloğu: alüminyum sistemler, MDF, kapı ürünleri ve yapı malzemeleri. İhracat odaklı kaliteli ürünler.",
+        "en": "Makbaş construction products catalogue: aluminum systems, MDF, door products and building materials. Export-oriented quality products.",
+        "ar": "كتالوج منتجات بناء ماكباش: أنظمة ألومنيوم، MDF، منتجات الأبواب ومواد البناء. منتجات عالية الجودة للتصدير."
       },
       "index": 1,
       "desing": {
@@ -49,8 +48,7 @@
         ],
         "footer": []
       },
-      "desc": {},
-      "icon": "home"
+      "desc": {}
     },
     {
       "name": {
@@ -64,8 +62,8 @@
       "path": "kozmetik-urunlerimiz",
       "description": {
         "tr": "Makbaş LTD.ŞTİ. olarak, inşaat ve kozmetik sektörlerinde faaliyet gösteriyoruz. İhracat ve ithalat unseren ana faaliyetlerimizdir.",
-        "en": "Makbaş LTD.ŞTİ. ",
-        "ar": "Makbaş LTD.ŞTİ. "
+        "en": "Makbaş operates in construction and cosmetics. Export and import are our main activities. Quality brands and reliable service worldwide.",
+        "ar": "تعمل ماكباش في البناء ومستحضرات التجميل. التصدير والاستيراد أنشطتنا الرئيسية. علامات جودة وخدمة موثوقة عالمياً."
       },
       "index": 2,
       "desing": {
@@ -75,8 +73,7 @@
         ],
         "footer": []
       },
-      "desc": {},
-      "icon": "home"
+      "desc": {}
     },
     {
       "name": {
@@ -89,9 +86,9 @@
       "id": "e4p56wgjlm",
       "path": "iletisim",
       "description": {
-        "tr": "Makbaş LTD.ŞTİ. olarak, inşaat ve kozmetik sektörlerinde faaliyet gösteriyoruz. Bize ulaşmak için lütfen bu sayfayı ziyaret edin.",
-        "en": "Makbaş LTD.ŞTİ. ",
-        "ar": "Makbaş LTD.ŞTİ. "
+        "tr": "Makbaş LTD.ŞTİ. iletişim sayfası. Inşaat ve kozmetik ihracatı için bize ulaşın; adres, telefon ve e-posta bilgileri.",
+        "en": "Contact Makbaş LTD.ŞTİ. for construction and cosmetics export. Address, phone and email.",
+        "ar": "اتصل بماكباش المحدودة للتصدير في البناء ومستحضرات التجميل. العنوان والهاتف والبريد الإلكتروني."
       },
       "index": 3,
       "desing": {
@@ -102,8 +99,7 @@
         ],
         "footer": []
       },
-      "desc": {},
-      "icon": "home"
+      "desc": {}
     },
     {
       "name": {
@@ -117,8 +113,8 @@
       "path": "hakkimizda",
       "description": {
         "tr": "Makbaş LTD.ŞTİ. olarak, inşaat ve kozmetik sektörlerinde faaliyet gösteriyoruz. Hakkımızda sayfasında, şirket tarihçemiz, misyonumuz ve vizyonumuz hakkında bilgi alabilirsiniz.",
-        "en": "Makbaş LTD.ŞTİ. ",
-        "ar": "Makbaş LTD.ŞTİ. "
+        "en": "About Makbaş: company history since 2001, mission and vision. Construction and cosmetics export. Quality and customer satisfaction.",
+        "ar": "عن ماكباش: تاريخ الشركة منذ 2001، الرسالة والرؤية. تصدير البناء ومستحضرات التجميل. الجودة ورضا العملاء."
       },
       "index": 4,
       "desing": {
@@ -128,8 +124,7 @@
         ],
         "footer": []
       },
-      "desc": {},
-      "icon": "home"
+      "desc": {}
     },
     {
       "name": {
@@ -143,8 +138,8 @@
       "path": "vizyon",
       "description": {
         "tr": "Makbaş LTD.ŞTİ. olarak, inşaat ve kozmetik sektörlerinde faaliyet gösteriyoruz. Hakkımızda sayfasında, şirket tarihçemiz, misyonumuz ve vizyonumuz hakkında bilgi alabilirsiniz.",
-        "en": "Makbaş LTD.ŞTİ. ",
-        "ar": "Makbaş LTD.ŞTİ. "
+        "en": "Our vision: to be the most reliable and high-quality brand globally. Makbaş since 2001. Construction and cosmetics export.",
+        "ar": "رؤيتنا: أن نكون العلامة الأكثر موثوقية وجودة عالمياً. ماكباش منذ 2001. تصدير البناء ومستحضرات التجميل."
       },
       "index": 5,
       "desing": {
@@ -154,8 +149,7 @@
         ],
         "footer": []
       },
-      "desc": {},
-      "icon": "home"
+      "desc": {}
     },
     {
       "name": {
@@ -169,8 +163,8 @@
       "path": "misyon",
       "description": {
         "tr": "Makbaş LTD.ŞTİ. olarak, inşaat ve kozmetik sektörlerinde faaliyet gösteriyoruz. Hakkımızda sayfasında, şirket tarihçemiz, misyonumuz ve vizyonumuz hakkında bilgi alabilirsiniz.",
-        "en": "Makbaş LTD.ŞTİ. ",
-        "ar": "Makbaş LTD.ŞTİ. "
+        "en": "Our mission: keep customer satisfaction at the highest level. Makbaş follows the latest trends in construction and cosmetics export.",
+        "ar": "مهمتنا: الحفاظ على رضا العملاء في أعلى مستوى. ماكباش تتابع أحدث الاتجاهات في تصدير البناء ومستحضرات التجميل."
       },
       "index": 6,
       "desing": {
@@ -180,8 +174,7 @@
         ],
         "footer": []
       },
-      "desc": {},
-      "icon": "home"
+      "desc": {}
     },
     {
       "name": {
@@ -195,8 +188,8 @@
       "path": "degerlerimiz",
       "description": {
         "tr": "Makbaş LTD.ŞTİ. olarak, inşaat ve kozmetik sektörlerinde faaliyet gösteriyoruz. Hakkımızda sayfasında, şirket tarihçemiz, misyonumuz ve vizyonumuz hakkında bilgi alabilirsiniz.",
-        "en": "Makbaş LTD.ŞTİ. ",
-        "ar": "Makbaş LTD.ŞTİ. "
+        "en": "Our values: quality, customer satisfaction, innovation. Makbaş since 2001 in construction and cosmetics export.",
+        "ar": "قيمنا: الجودة ورضا العملاء والابتكار. ماكباش منذ 2001 في تصدير البناء ومستحضرات التجميل."
       },
       "index": 7,
       "desing": {
@@ -206,8 +199,7 @@
         ],
         "footer": []
       },
-      "desc": {},
-      "icon": "home"
+      "desc": {}
     },
     {
       "name": {
@@ -221,8 +213,8 @@
       "path": "kalite-politikamiz",
       "description": {
         "tr": "Makbaş LTD.ŞTİ. olarak, kalite politikamız müşterilerimizin memnuniyetine odaklanmıştır. Kalite standartlarımızın en yüksek seviyede tutmak için çalışıyoruz.",
-        "en": "Makbaş LTD.ŞTİ. ",
-        "ar": "Makbaş LTD.ŞTİ. "
+        "en": "Our quality policy focuses on customer satisfaction and continuous improvement. Makbaş construction and cosmetics export.",
+        "ar": "تركز سياسة الجودة لدينا على رضا العملاء والتحسين المستمر. تصدير بناء وتجميل ماكباش."
       },
       "index": 8,
       "desing": {
@@ -232,8 +224,7 @@
         ],
         "footer": []
       },
-      "desc": {},
-      "icon": "home"
+      "desc": {}
     },
     {
       "name": {
@@ -247,8 +238,8 @@
       "path": "kisisel-veriler",
       "description": {
         "tr": "Makbaş LTD.ŞTİ. olarak, sizlerin kişisel verilerini korumaya çalışıyoruz. Gizlilik politikamız kapsamında, sizlerin verilerini nasıl koruduğumuzu ve kullandığımızı bu sayfada bulabilirsiniz.",
-        "en": "Makbaş LTD.ŞTİ. ",
-        "ar": "Makbaş LTD.ŞTİ. "
+        "en": "Personal data and privacy policy. How Makbaş protects and uses your data. GDPR and data protection.",
+        "ar": "البيانات الشخصية وسياسة الخصوصية. كيف تحمي ماكباش بياناتك وتستخدمها. حماية البيانات."
       },
       "index": 9,
       "desing": {
@@ -258,8 +249,7 @@
         ],
         "footer": []
       },
-      "desc": {},
-      "icon": "home"
+      "desc": {}
     },
     {
       "name": {
@@ -284,8 +274,7 @@
         ],
         "footer": []
       },
-      "desc": {},
-      "icon": "home"
+      "desc": {}
     },
     {
       "name": {
@@ -310,8 +299,7 @@
         ],
         "footer": []
       },
-      "desc": {},
-      "icon": "home"
+      "desc": {}
     }
   ],
   "name": "Sayfalar",

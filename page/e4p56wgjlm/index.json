@@ -10,14 +10,14 @@
   "externalUrl": "",
   "path": "iletisim",
   "keyword": {
-    "tr": "iletişim, iletişim, irtibat",
-    "en": "communication, communication, contact",
-    "ar": "التواصل، التواصل، الاتصال"
+    "tr": "Makbaş, iletişim, irtibat, adres, telefon, e-posta",
+    "en": "Makbas, contact, address, phone, email",
+    "ar": "ماكباش، تواصل، عنوان، هاتف، بريد إلكتروني"
   },
   "description": {
-    "tr": "Makbaş LTD.ŞTİ. olarak, inşaat ve kozmetik sektörlerinde faaliyet gösteriyoruz. Bize ulaşmak için lütfen bu sayfayı ziyaret edin.",
-    "en": "Makbaş LTD.ŞTİ. ",
-    "ar": "Makbaş LTD.ŞTİ. "
+    "tr": "Makbaş LTD.ŞTİ. iletişim sayfası. Inşaat ve kozmetik ihracatı için bize ulaşın; adres, telefon ve e-posta bilgileri.",
+    "en": "Contact Makbaş LTD.ŞTİ. for construction and cosmetics export. Address, phone and email.",
+    "ar": "اتصل بماكباش المحدودة للتصدير في البناء ومستحضرات التجميل. العنوان والهاتف والبريد الإلكتروني."
   },
   "text": {
     "tr": "İletişim bilgilerimize ulaşmak için lütfen buraya tıklayın.",
@@ -34,7 +34,7 @@
     "footer": []
   },
   "desc": {},
-  "update": "2026-02-20T01:06:57.356Z",
+  "update": "2026-02-20T02:08:56.360Z",
   "date": "2026-02-20T01:06:55.323Z",
   "title": {
     "tr": "İletişim",

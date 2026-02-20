@@ -10,14 +10,14 @@
   "externalUrl": "",
   "path": "adokapi-kapi-urunleri",
   "keyword": {
-    "tr": "",
-    "en": "",
-    "ar": ""
+    "tr": "Makbaş, Kapı Ürünleri, inşaat, yapı malzemesi, ihracat, alüminyum, kapı, pencere",
+    "en": "Makbas, ADOKAPI Door, construction, building materials, export, aluminum, door, window",
+    "ar": "ماكباش، باب أدوكابي, بناء، مواد بناء، تصدير، ألومنيوم، باب، نافذة"
   },
   "description": {
-    "tr": "",
-    "en": "",
-    "ar": ""
+    "tr": "Makbaş Kapı Ürünleri. İnşaat ve yapı malzemeleri. İhracat kalitesi, güvenilir tedarik.",
+    "en": "Makbaş ADOKAPI Door. Construction and building materials. Export quality, reliable supply.",
+    "ar": "ماكباش باب أدوكابي. مواد بناء وإنشاء. جودة التصدير، إمداد موثوق."
   },
   "index": 0,
   "desing": {
@@ -331,7 +331,7 @@
       "img": "door (99).webp"
     }
   ],
-  "update": "2026-02-20T01:06:57.443Z",
+  "update": "2026-02-20T02:08:56.457Z",
   "date": "2026-02-20T01:06:55.408Z",
   "title": {
     "tr": "Kapı Ürünleri",

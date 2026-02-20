@@ -16,8 +16,8 @@
   },
   "description": {
     "tr": "Makbaş LTD.ŞTİ. olarak, inşaat ve kozmetik sektörlerinde faaliyet gösteriyoruz. Hakkımızda sayfasında, şirket tarihçemiz, misyonumuz ve vizyonumuz hakkında bilgi alabilirsiniz.",
-    "en": "Makbaş LTD.ŞTİ. ",
-    "ar": "Makbaş LTD.ŞTİ. "
+    "en": "Our mission: keep customer satisfaction at the highest level. Makbaş follows the latest trends in construction and cosmetics export.",
+    "ar": "مهمتنا: الحفاظ على رضا العملاء في أعلى مستوى. ماكباش تتابع أحدث الاتجاهات في تصدير البناء ومستحضرات التجميل."
   },
   "text": {
     "tr": "<main>\n    <section class=\"flexColumn gap5 f16 mission-section\">\n        <h1>Misyonumuz</h1>\n        <p><strong>Müşteri Memnuniyetini En Üst Düzeyde Tutmak</strong></p>\n        <p>Makbaş LTD.ŞTİ.'nin misyonu, müşteri memnuniyetini her zaman en yüksek seviyede tutarak sektördeki en güncel gelişmeleri ve trendleri takip etmektir. Şirketimiz, kalite ve müşteri odaklı hizmet anlayışıyla sektöründe en iyisi olmayı hedeflemektedir.</p>\n        <p>İş süreçlerimizi sürekli olarak iyileştirerek ve yenilikçi çözümler sunarak, müşterilerimize en yüksek değeri sağlamak için çalışıyoruz. Amacımız, müşteri ihtiyaçlarını en iyi şekilde karşılamak ve sektördeki gelişmeleri anında uygulamaktır.</p>\n        <p>Makbaş olarak, sektördeki en güncel trendleri ve yenilikleri takip etmekteyiz. Bu doğrultuda, iş süreçlerimizi sürekli olarak optimize ederek, müşteri memnuniyetini ve hizmet kalitesini her zaman en üst düzeyde tutmayı amaçlıyoruz.</p>\n        <p>Vizyonumuz ve değerlerimiz doğrultusunda, müşteri beklentilerini aşmak ve sektörümüzdeki en iyi uygulamaları hayata geçirmek için tüm gücümüzle çalışıyoruz. Misyonumuz, iş dünyasında güvenilir ve kaliteli bir iş ortağı olarak tanınmak ve müşteri memnuniyetini en yüksek seviyede tutmaktır.</p>\n    </section>\n</main>",
@@ -34,7 +34,7 @@
     "footer": []
   },
   "bgimg": "bmbou.jpg",
-  "update": "2026-02-20T01:06:57.378Z",
+  "update": "2026-02-20T02:08:56.392Z",
   "date": "2026-02-20T01:06:55.351Z",
   "title": {
     "tr": "Misyon",

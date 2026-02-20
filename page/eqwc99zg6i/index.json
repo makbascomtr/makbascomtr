@@ -1,0 +1,62 @@
+{
+  "name": {
+    "tr": "Kale Kilit",
+    "en": "CASTLE LOCK",
+    "ar": "قفل القلعة"
+  },
+  "status": "play",
+  "category": "os3wsgiuny",
+  "id": "eqwc99zg6i",
+  "externalUrl": "",
+  "path": "kale-kilit",
+  "keyword": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "description": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "desc": {},
+  "desing": {
+    "header": [],
+    "body": [
+      "cx4dux",
+      "grvbag"
+    ],
+    "footer": []
+  },
+  "index": 18,
+  "slider": [
+    {
+      "img": "photo_2023-08-20_22-28-03-3-225x300.webp"
+    },
+    {
+      "img": "photo_2023-08-20_22-28-03-4-225x300.webp"
+    },
+    {
+      "img": "photo_2023-08-20_22-28-03-5-225x300.webp"
+    },
+    {
+      "img": "photo_2023-08-20_22-28-04-2-1-225x300.webp"
+    },
+    {
+      "img": "photo_2023-08-20_22-28-04-2-2-225x300.webp"
+    },
+    {
+      "img": "photo_2023-08-20_22-28-04-2-3-225x300.webp"
+    },
+    {
+      "img": "photo_2023-08-20_22-28-04-4-225x300.webp"
+    }
+  ],
+  "update": "2026-02-20T01:06:57.571Z",
+  "date": "2026-02-20T01:06:55.560Z",
+  "title": {
+    "tr": "Kale Kilit",
+    "en": "CASTLE LOCK",
+    "ar": "قفل القلعة"
+  }
+}

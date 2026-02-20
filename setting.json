@@ -1,0 +1,29 @@
+{
+  "order": false,
+  "user": false,
+  "description": {
+    "tr": ""
+  },
+  "keyword": {
+    "tr": ""
+  },
+  "category": "",
+  "name": "Makbaş",
+  "domain": "makbas.com.tr",
+  "langs": {
+    "tr": true,
+    "en": true,
+    "ar": true,
+    "de": false,
+    "ru": false,
+    "es": false,
+    "fr": false,
+    "it": false,
+    "ja": false,
+    "zh": false,
+    "ko": false,
+    "pt": false
+  },
+  "firebaseCollection": "",
+  "logo": "logo.svg"
+}

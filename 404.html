@@ -1,6 +1,8 @@
 <nav>
   <div href="/" class="menu">
-    <a href="/" class="website_name"><img src="/img/undefined" width="300" /></a>
+    <a href="/" class="website_name"
+      ><img src="/img/logo.svg?v=kdhq1" width="300" alt="Makbaş Logo"
+    /></a>
   </div>
 </nav>
 <section class="wrapper">
@@ -34,16 +36,16 @@
     <div class="text">
       <article>
         <p>
-          Uh oh! Looks like you got lost. <br />Go back to the homepage if you
-          dare!
+          Üzgünüz! Aradığınız sayfa bulunamadı. <br />Ana sayfaya dönmek için tıklayın.
         </p>
-        <a href="/">Home Page</a>
+        <a href="/ar/">Ana Sayfa</a>
       </article>
     </div>
   </div>
 </section>
 <style>
-  @import url('https://fonts.googleapis.com/css?family=Barlow+Condensed:300,400,500,600,700,800,900|Barlow:300,400,500,600,700,800,900&display=swap');
+  @import url("https://fonts.googleapis.com/css?family=Barlow+Condensed:300,400,500,600,700,800,900|Barlow:300,400,500,600,700,800,900&display=swap");
+
   .about {
     position: fixed;
     z-index: 10;
@@ -56,6 +58,7 @@
     align-items: flex-end;
     transition: all 0.2s ease;
   }
+
   .about .bg_links {
     width: 40px;
     height: 40px;
@@ -68,6 +71,7 @@
     backdrop-filter: blur(5px);
     position: absolute;
   }
+
   .about .logo {
     width: 40px;
     height: 40px;
@@ -81,11 +85,13 @@
     bottom: 0;
     right: 0;
   }
+
   .about .social {
     opacity: 0;
     right: 0;
     bottom: 0;
   }
+
   .about .social .icon {
     width: 100%;
     height: 100%;
@@ -100,70 +106,89 @@
     opacity: 0;
     border-radius: 100%;
   }
+
   .about .social.portfolio {
     transition: all 0.8s ease;
   }
+
   .about .social.portfolio .icon {
     background-image: url(https://rafaelavlucas.github.io/assets/codepen/link.svg);
   }
+
   .about .social.dribbble {
     transition: all 0.3s ease;
   }
+
   .about .social.dribbble .icon {
     background-image: url(https://rafaelavlucas.github.io/assets/codepen/dribbble.svg);
   }
+
   .about .social.linkedin {
     transition: all 0.8s ease;
   }
+
   .about .social.linkedin .icon {
     background-image: url(https://rafaelavlucas.github.io/assets/codepen/linkedin.svg);
   }
+
   .about:hover {
     width: 105px;
     height: 105px;
     transition: all 0.6s cubic-bezier(0.64, 0.01, 0.07, 1.65);
   }
+
   .about:hover .logo {
     opacity: 1;
     transition: all 0.6s ease;
   }
+
   .about:hover .social {
     opacity: 1;
   }
+
   .about:hover .social .icon {
     opacity: 0.9;
   }
+
   .about:hover .social:hover {
     background-size: 28px;
   }
+
   .about:hover .social:hover .icon {
     background-size: 65%;
     opacity: 1;
   }
+
   .about:hover .social.portfolio {
     right: 0;
     bottom: calc(100% - 40px);
     transition: all 0.3s 0s cubic-bezier(0.64, 0.01, 0.07, 1.65);
   }
+
   .about:hover .social.portfolio .icon:hover {
     background-color: #698fb7;
   }
+
   .about:hover .social.dribbble {
     bottom: 45%;
     right: 45%;
     transition: all 0.3s 0.15s cubic-bezier(0.64, 0.01, 0.07, 1.65);
   }
+
   .about:hover .social.dribbble .icon:hover {
     background-color: #ea4c89;
   }
+
   .about:hover .social.linkedin {
     bottom: 0;
     right: calc(100% - 40px);
     transition: all 0.3s 0.25s cubic-bezier(0.64, 0.01, 0.07, 1.65);
   }
+
   .about:hover .social.linkedin .icon:hover {
     background-color: #0077b5;
   }
+
   h1,
   h2,
   h3,
@@ -187,6 +212,7 @@
     color: inherit;
     overflow: hidden;
   }
+
   h1:focus,
   h2:focus,
   h3:focus,
@@ -203,13 +229,15 @@
   body:focus {
     outline: 0;
   }
+
   body {
     margin: 0;
     padding: 0;
     height: auto;
-    font-family: 'Barlow', sans-serif;
+    font-family: "Barlow", sans-serif;
     background: #695681;
   }
+
   .logo {
     position: fixed;
     z-index: 5;
@@ -225,12 +253,14 @@
     border-radius: 100%;
     backdrop-filter: blur(5px);
   }
+
   .logo img {
     width: 55%;
     height: 55%;
     transform: translateY(-1px);
     opacity: 0.8;
   }
+
   nav .menu {
     width: 100%;
     align-items: center;
@@ -241,6 +271,7 @@
     align-items: center;
     justify-content: center;
   }
+
   nav .menu .website_name {
     padding: 15px;
     border-radius: 2px;
@@ -248,21 +279,26 @@
     background-color: #fff;
     border-radius: 0px 0px 10px 10px;
   }
+
   nav .menu .website_name:hover {
     opacity: 1;
   }
+
   nav .menu .menu_links {
     transition: all 0.4s ease;
     opacity: 0.5;
   }
+
   nav .menu .menu_links:hover {
     opacity: 1;
   }
+
   @media screen and (max-width: 799px) {
     nav .menu .menu_links {
       display: none;
     }
   }
+
   nav .menu .menu_links .link {
     color: white;
     text-transform: uppercase;
@@ -272,11 +308,13 @@
     position: relative;
     transition: all 0.3s 0.2s ease;
   }
+
   nav .menu .menu_links .link:last-child {
     margin-right: 0;
   }
+
   nav .menu .menu_links .link:before {
-    content: '';
+    content: "";
     position: absolute;
     width: 0px;
     height: 4px;
@@ -286,14 +324,17 @@
     transition: all 0.4s cubic-bezier(0.82, 0.02, 0.13, 1.26);
     left: 100%;
   }
+
   nav .menu .menu_links .link:hover {
     opacity: 1;
     color: #fb8a8a;
   }
+
   nav .menu .menu_links .link:hover:before {
     width: 40px;
     left: 0;
   }
+
   nav .menu .menu_icon {
     width: 40px;
     height: 40px;
@@ -303,41 +344,50 @@
     align-items: center;
     cursor: pointer;
   }
+
   @media screen and (max-width: 799px) {
     nav .menu .menu_icon {
       display: flex;
     }
   }
+
   nav .menu .menu_icon .icon {
     width: 24px;
     height: 2px;
     background: white;
     position: absolute;
   }
+
   nav .menu .menu_icon .icon:before,
   nav .menu .menu_icon .icon:after {
-    content: '';
+    content: "";
     width: 100%;
     height: 100%;
     background: inherit;
     position: absolute;
     transition: all 0.3s cubic-bezier(0.49, 0.04, 0, 1.55);
   }
+
   nav .menu .menu_icon .icon:before {
     transform: translateY(-8px);
   }
+
   nav .menu .menu_icon .icon:after {
     transform: translateY(8px);
   }
+
   nav .menu .menu_icon:hover .icon {
     background: #ffedc0;
   }
+
   nav .menu .menu_icon:hover .icon:before {
     transform: translateY(-10px);
   }
+
   nav .menu .menu_icon:hover .icon:after {
     transform: translateY(10px);
   }
+
   .wrapper {
     display: grid;
     grid-template-columns: 1fr;
@@ -347,6 +397,7 @@
     overflow-x: hidden;
     margin-top: -100px;
   }
+
   .wrapper .container {
     margin: 0 auto;
     transition: all 0.4s ease;
@@ -355,11 +406,13 @@
     align-items: center;
     position: relative;
   }
+
   .wrapper .container .scene {
     position: absolute;
     width: 100vw;
     vertical-align: middle;
   }
+
   .wrapper .container .one,
   .wrapper .container .two,
   .wrapper .container .three,
@@ -372,6 +425,7 @@
     min-width: 400px;
     min-height: 400px;
   }
+
   .wrapper .container .one .content,
   .wrapper .container .two .content,
   .wrapper .container .three .content,
@@ -388,11 +442,13 @@
     transform: translate(-50%, -50%);
     animation: content 0.8s cubic-bezier(1, 0.06, 0.25, 1) backwards;
   }
+
   @keyframes content {
     0% {
       width: 0;
     }
   }
+
   .wrapper .container .one .content .piece,
   .wrapper .container .two .content .piece,
   .wrapper .container .three .content .piece,
@@ -406,18 +462,21 @@
     z-index: 1;
     animation: pieceLeft 8s cubic-bezier(1, 0.06, 0.25, 1) infinite both;
   }
+
   @keyframes pieceLeft {
     50% {
       left: 80%;
       width: 10%;
     }
   }
+
   @keyframes pieceRight {
     50% {
       right: 80%;
       width: 10%;
     }
   }
+
   @media screen and (max-width: 799px) {
     .wrapper .container .one,
     .wrapper .container .two,
@@ -432,6 +491,7 @@
       min-height: 280px;
     }
   }
+
   @media screen and (max-height: 660px) {
     .wrapper .container .one,
     .wrapper .container .two,
@@ -446,6 +506,7 @@
       left: 20% !important;
     }
   }
+
   .wrapper .container .text {
     width: 60%;
     height: 40%;
@@ -455,18 +516,21 @@
     margin: 40px 0;
     animation: text 0.6s 1.8s ease backwards;
   }
+
   @keyframes text {
     0% {
       opacity: 0;
       transform: translateY(40px);
     }
   }
+
   @media screen and (max-width: 799px) {
     .wrapper .container .text {
       min-height: 400px;
       height: 80%;
     }
   }
+
   .wrapper .container .text article {
     width: 400px;
     position: absolute;
@@ -481,11 +545,13 @@
     left: 50%;
     transform: translateX(-50%);
   }
+
   @media screen and (max-width: 799px) {
     .wrapper .container .text article {
       width: 100%;
     }
   }
+
   .wrapper .container .text article p {
     color: white;
     font-size: 18px;
@@ -493,6 +559,7 @@
     margin-bottom: 40px;
     text-shadow: 6px 6px 10px #32243e;
   }
+
   .wrapper .container .text article a {
     height: 40px;
     padding: 0 30px;
@@ -510,12 +577,58 @@
     align-items: center;
     justify-content: center;
   }
+
+  /* RTL (Right-to-Left) Dil Desteği - Arapça için */
+  [dir="rtl"] {
+    direction: rtl;
+    text-align: right;
+  }
+
+  [dir="rtl"] nav .menu {
+    direction: rtl;
+  }
+
+  [dir="rtl"] .wrapper .container .text article {
+    text-align: right;
+    direction: rtl;
+  }
+
+  [dir="rtl"] .wrapper .container .text article p {
+    text-align: right;
+  }
+
+  [dir="rtl"] nav .menu .menu_links .link {
+    margin-right: 0;
+    margin-left: 50px;
+  }
+
+  [dir="rtl"] nav .menu .menu_links .link:last-child {
+    margin-left: 0;
+  }
+
+  [dir="rtl"] nav .menu .menu_links .link:before {
+    left: auto;
+    right: 100%;
+  }
+
+  [dir="rtl"] nav .menu .menu_links .link:hover:before {
+    left: auto;
+    right: 0;
+  }
+
+  [dir="rtl"] .wrapper .container .text article {
+    left: auto;
+    right: 50%;
+    transform: translateX(50%);
+  }
+
   .wrapper .container .text article button:hover {
     box-shadow: 0px 10px 10px -10px rgba(54, 24, 79, 0.5);
     transform: translateY(5px);
     background: #fb8a8a;
     color: white;
   }
+
   .wrapper .container .p404 {
     font-size: 200px;
     font-weight: 700;
@@ -529,17 +642,20 @@
     animation: anime404 0.6s cubic-bezier(0.3, 0.8, 1, 1.05) both;
     animation-delay: 1.2s;
   }
+
   @media screen and (max-width: 799px) {
     .wrapper .container .p404 {
       font-size: 100px;
     }
   }
+
   @keyframes anime404 {
     0% {
       opacity: 0;
       transform: scale(10) skew(20deg, 20deg);
     }
   }
+
   .wrapper .container .p404:nth-of-type(2) {
     color: #36184f;
     z-index: 1;
@@ -547,11 +663,13 @@
     filter: blur(10px);
     opacity: 0.8;
   }
+
   .wrapper .container .circle {
     position: absolute;
   }
+
   .wrapper .container .circle:before {
-    content: '';
+    content: "";
     position: absolute;
     width: var(--max);
     height: 800px;
@@ -567,20 +685,23 @@
       2px 2px 5px rgba(255, 255, 255, 0.2);
     animation: circle 0.8s cubic-bezier(1, 0.06, 0.25, 1) backwards;
   }
+
   @keyframes circle {
     0% {
       width: 0;
       height: 0;
     }
   }
+
   @media screen and (max-width: 799px) {
     .wrapper .container .circle:before {
       width: 400px;
       height: 400px;
     }
   }
+
   .wrapper .container .one .content:before {
-    content: '';
+    content: "";
     position: absolute;
     width: 600px;
     height: 600px;
@@ -593,15 +714,18 @@
       2px 2px 5px rgba(255, 255, 255, 0.2);
     animation: circle 0.8s 0.4s cubic-bezier(1, 0.06, 0.25, 1) backwards;
   }
+
   @media screen and (max-width: 799px) {
     .wrapper .container .one .content:before {
       width: 300px;
       height: 300px;
     }
   }
+
   .wrapper .container .one .content .piece {
     background: linear-gradient(90deg, #8077ea 13.7%, #eb73ff 94.65%);
   }
+
   .wrapper .container .one .content .piece:nth-child(1) {
     right: 15%;
     top: 18%;
@@ -610,6 +734,7 @@
     animation-delay: 0.5s;
     animation-name: pieceRight;
   }
+
   .wrapper .container .one .content .piece:nth-child(2) {
     left: 15%;
     top: 45%;
@@ -618,6 +743,7 @@
     animation-delay: 1s;
     animation-name: pieceLeft;
   }
+
   .wrapper .container .one .content .piece:nth-child(3) {
     left: 10%;
     top: 75%;
@@ -626,9 +752,11 @@
     animation-delay: 1.5s;
     animation-name: pieceLeft;
   }
+
   .wrapper .container .two .content .piece {
     background: linear-gradient(90deg, #ffedc0 0%, #ff9d87 100%);
   }
+
   .wrapper .container .two .content .piece:nth-child(1) {
     left: 0%;
     top: 25%;
@@ -637,6 +765,7 @@
     animation-delay: 2s;
     animation-name: pieceLeft;
   }
+
   .wrapper .container .two .content .piece:nth-child(2) {
     right: 15%;
     top: 35%;
@@ -645,6 +774,7 @@
     animation-delay: 2.5s;
     animation-name: pieceRight;
   }
+
   .wrapper .container .two .content .piece:nth-child(3) {
     right: 10%;
     top: 80%;
@@ -653,9 +783,11 @@
     animation-delay: 3s;
     animation-name: pieceRight;
   }
+
   .wrapper .container .three .content .piece {
     background: #fb8a8a;
   }
+
   .wrapper .container .three .content .piece:nth-child(1) {
     left: 25%;
     top: 35%;
@@ -664,6 +796,7 @@
     animation-name: pieceLeft;
     animation-delay: 3.5s;
   }
+
   .wrapper .container .three .content .piece:nth-child(2) {
     right: 10%;
     top: 55%;
@@ -672,6 +805,7 @@
     animation-name: pieceRight;
     animation-delay: 4s;
   }
+
   .wrapper .container .three .content .piece:nth-child(3) {
     left: 40%;
     top: 68%;
@@ -681,3 +815,26 @@
     animation-delay: 4.5s;
   }
 </style>
+<script>
+  // RTL dil kontrolü - Arapça için sağdan sola yazım desteği
+  setTimeout(function() {
+    var currentPath = window.location.pathname;
+    var rtlLanguages = ['ar', 'he', 'fa']; // RTL diller: Arapça, İbranice, Farsça
+    
+    // URL'den dil kodunu çıkar (/ar/, /he/, /fa/ gibi)
+    var langMatch = currentPath.match(/^\/([a-z]{2})\//);
+    var currentLang = langMatch ? langMatch[1] : '';
+    
+    // Eğer RTL dil ise dir="rtl" set et
+    if (rtlLanguages.indexOf(currentLang) !== -1) {
+      document.documentElement.setAttribute('dir', 'rtl');
+    } else {
+      document.documentElement.setAttribute('dir', 'ltr');
+    }
+  }, 100);
+
+  window.location.href = "/";
+  setTimeout(function () {
+    window.location.href = "/";
+  }, 5000);
+</script>

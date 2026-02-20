@@ -1,0 +1,317 @@
+{
+  "name": {
+    "tr": "MDF Ürünler",
+    "en": "MDF",
+    "ar": "يمول"
+  },
+  "status": "play",
+  "category": "",
+  "id": "d0trinm34n",
+  "externalUrl": "",
+  "path": "mdf",
+  "keyword": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "description": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "index": 1,
+  "desing": {
+    "header": [],
+    "body": [
+      "cx4dux"
+    ],
+    "footer": []
+  },
+  "desc": {},
+  "img": "fs3cs.webp",
+  "slider": [
+    {
+      "img": "A303-N.KAYIN-1.webp"
+    },
+    {
+      "img": "A306-N.KAYIN-4.webp"
+    },
+    {
+      "img": "A308-ARMUT.webp"
+    },
+    {
+      "img": "A315-MAUN.webp"
+    },
+    {
+      "img": "A316-WENGE.webp"
+    },
+    {
+      "img": "A318-NOSTALJI.webp"
+    },
+    {
+      "img": "A319-AKCA-AGAC.webp"
+    },
+    {
+      "img": "A332-KOYU-KIRAZ.webp"
+    },
+    {
+      "img": "A333-BERGAMA.webp"
+    },
+    {
+      "img": "A338-VENEDIK-CEVIZ.webp"
+    },
+    {
+      "img": "A339-YENICE-MESE.webp"
+    },
+    {
+      "img": "A348-IHLARA.webp"
+    },
+    {
+      "img": "A351-HUS.webp"
+    },
+    {
+      "img": "A353-TEAK.webp"
+    },
+    {
+      "img": "A356-ZEBRAND.webp"
+    },
+    {
+      "img": "A363-DUMAN-MESE.webp"
+    },
+    {
+      "img": "A364-MARBELLA-KIRAZ.webp"
+    },
+    {
+      "img": "A366-ABANDZ.webp"
+    },
+    {
+      "img": "A369-NAPOLYON-KIRAZ.webp"
+    },
+    {
+      "img": "A373-LATIN-CEVIZ.webp"
+    },
+    {
+      "img": "A377-ELMA.webp"
+    },
+    {
+      "img": "A378-ANADOLU-VECIZI.webp"
+    },
+    {
+      "img": "A379-BAMBU.webp"
+    },
+    {
+      "img": "A380-SAMBA.webp"
+    },
+    {
+      "img": "A384-METALIK-CEVIZ.webp"
+    },
+    {
+      "img": "A385-BEYAZ-ERIK.webp"
+    },
+    {
+      "img": "A387-MILAS.webp"
+    },
+    {
+      "img": "A389-MESE.webp"
+    },
+    {
+      "img": "A393-CARMEN.webp"
+    },
+    {
+      "img": "A393-DOGAL-HUS.webp"
+    },
+    {
+      "img": "A394-ACIK-ZEBRAND.webp"
+    },
+    {
+      "img": "A395-CORDOBA.webp"
+    },
+    {
+      "img": "A397-ATLANTIS.webp"
+    },
+    {
+      "img": "A401-BEYAZ-ALPI.webp"
+    },
+    {
+      "img": "A402-NATUREL-MESE.webp"
+    },
+    {
+      "img": "A405-PALISANDER.webp"
+    },
+    {
+      "img": "A406-MILAND.webp"
+    },
+    {
+      "img": "A409-TOSCANA.webp"
+    },
+    {
+      "img": "A410-VENEZIA.webp"
+    },
+    {
+      "img": "A411-KARYA.webp"
+    },
+    {
+      "img": "A412-ARKADYA.webp"
+    },
+    {
+      "img": "A413-ARKADYA-DARK.webp"
+    },
+    {
+      "img": "A414-ANTRASIT-MESE.webp"
+    },
+    {
+      "img": "A415-BIANCO.webp"
+    },
+    {
+      "img": "A416-NEVADA.webp"
+    },
+    {
+      "img": "A417-HAVANA.webp"
+    },
+    {
+      "img": "A418-ACIK-SAFIR.webp"
+    },
+    {
+      "img": "A419-KOYU-SAFIR.webp"
+    },
+    {
+      "img": "A420-SAHARA.webp"
+    },
+    {
+      "img": "D102-BEJ.webp"
+    },
+    {
+      "img": "D104-FILDISI.webp"
+    },
+    {
+      "img": "D107-SIYAH.webp"
+    },
+    {
+      "img": "D108-MAVI.webp"
+    },
+    {
+      "img": "D109-LACIVERT.webp"
+    },
+    {
+      "img": "D114-TURUNCU.webp"
+    },
+    {
+      "img": "D116-METALIK-GRI.webp"
+    },
+    {
+      "img": "D117-KIRMIZI.webp"
+    },
+    {
+      "img": "D118-ELVIRA.webp"
+    },
+    {
+      "img": "D120-PEMBE.webp"
+    },
+    {
+      "img": "D122-VIZON.webp"
+    },
+    {
+      "img": "D123-ACIK-GRI.webp"
+    },
+    {
+      "img": "D125-SEKER-PEMBE.webp"
+    },
+    {
+      "img": "D126-CAPUCCINO.webp"
+    },
+    {
+      "img": "D129-LAKE-BEYAZ.webp"
+    },
+    {
+      "img": "D129-LEKE-BEYAZ.webp"
+    },
+    {
+      "img": "D133-KOYU-SARI.webp"
+    },
+    {
+      "img": "D134-PASTEL-YASIL.webp"
+    },
+    {
+      "img": "D135-VERDE.webp"
+    },
+    {
+      "img": "D138-LILA.webp"
+    },
+    {
+      "img": "D140-KUM-TASI.webp"
+    },
+    {
+      "img": "D143-ANTRASIT.webp"
+    },
+    {
+      "img": "D144-KRAFT.webp"
+    },
+    {
+      "img": "D145-BRONZ.webp"
+    },
+    {
+      "img": "D146-HARDAL.webp"
+    },
+    {
+      "img": "D149-MERLO.webp"
+    },
+    {
+      "img": "D152-OPAK-BEYAZ.webp"
+    },
+    {
+      "img": "D153-BAKIR.webp"
+    },
+    {
+      "img": "D157-SIYAH-GALAXY.webp"
+    },
+    {
+      "img": "D158-KAHVE-GALAXY.webp"
+    },
+    {
+      "img": "D159-KARAMEL-GALAXY.webp"
+    },
+    {
+      "img": "D160-AYTASI.webp"
+    },
+    {
+      "img": "D161-DAFNE.webp"
+    },
+    {
+      "img": "F236-KOTON-VIZON.webp"
+    },
+    {
+      "img": "F237-KOTON-LATTE.webp"
+    },
+    {
+      "img": "F238-TREND-GRI.webp"
+    },
+    {
+      "img": "F239-TREND-BEJ.webp"
+    },
+    {
+      "img": "F240-BEYAZ-MATRIX.webp"
+    },
+    {
+      "img": "F241-SIYAH-MATRIX.webp"
+    },
+    {
+      "img": "F242-FLOWER.webp"
+    },
+    {
+      "img": "F243-NOVA.webp"
+    },
+    {
+      "img": "F244-GRI-MATRIX.webp"
+    },
+    {
+      "img": "F245-KUVARS.webp"
+    }
+  ],
+  "update": "2026-02-20T01:06:57.454Z",
+  "date": "2026-02-20T01:06:55.417Z",
+  "title": {
+    "tr": "MDF Ürünler",
+    "en": "MDF",
+    "ar": "يمول"
+  }
+}

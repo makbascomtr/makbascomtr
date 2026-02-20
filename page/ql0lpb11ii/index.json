@@ -1,0 +1,65 @@
+{
+  "name": {
+    "tr": "Sürme Sistemi Tekerlekleri",
+    "en": "SLIDING SYSTEM WHEELS",
+    "ar": "عجلات نظام الانزلاق"
+  },
+  "status": "play",
+  "category": "os3wsgiuny",
+  "id": "ql0lpb11ii",
+  "externalUrl": "",
+  "path": "surme-sistemi-tekerlekleri",
+  "keyword": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "description": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "desc": {},
+  "desing": {
+    "header": [],
+    "body": [
+      "cx4dux",
+      "grvbag"
+    ],
+    "footer": []
+  },
+  "index": 14,
+  "slider": [
+    {
+      "img": "c-3-225x300.webp"
+    },
+    {
+      "img": "dfs-1-225x300.webp"
+    },
+    {
+      "img": "fg-1-225x300.webp"
+    },
+    {
+      "img": "nb-1-225x300.webp"
+    },
+    {
+      "img": "photo_2023-08-31_05-20-5-4-225x300.webp"
+    },
+    {
+      "img": "photo_2023-08-31_05-20-d-6-225x300.webp"
+    },
+    {
+      "img": "photo_2023-08-31_05-20-gfd-1-225x300.webp"
+    },
+    {
+      "img": "sdm-1-225x300.webp"
+    }
+  ],
+  "update": "2026-02-20T01:06:57.547Z",
+  "date": "2026-02-20T01:06:55.527Z",
+  "title": {
+    "tr": "Sürme Sistemi Tekerlekleri",
+    "en": "SLIDING SYSTEM WHEELS",
+    "ar": "عجلات نظام الانزلاق"
+  }
+}

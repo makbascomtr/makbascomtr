@@ -1,0 +1,43 @@
+{
+  "name": {
+    "tr": "Kozmetik Ürünlerimiz",
+    "en": "Our Cosmetic Products",
+    "ar": "منتجاتنا التجميلية"
+  },
+  "status": "play",
+  "category": "",
+  "id": "lr7sjk5kqw",
+  "externalUrl": "",
+  "path": "kozmetik-urunlerimiz",
+  "keyword": {
+    "tr": "inşaat, kozmetik, ihracat, ithalat",
+    "en": "construction, cosmetics, export, import",
+    "ar": "البناء ومستحضرات التجميل والتصدير والاستيراد"
+  },
+  "description": {
+    "tr": "Makbaş LTD.ŞTİ. olarak, inşaat ve kozmetik sektörlerinde faaliyet gösteriyoruz. İhracat ve ithalat unseren ana faaliyetlerimizdir.",
+    "en": "Makbaş LTD.ŞTİ. ",
+    "ar": "Makbaş LTD.ŞTİ. "
+  },
+  "text": {
+    "tr": "İnşaat sektöründe, bina, yol, köprü, baraj, konut, otel, alışveriş merkezi gibi projelerde yer almaktayız. Kozmetik sektöründe, kozmetik ürünlerimizin ihracatını gerçekleştiriyoruz.",
+    "en": "In the construction industry, we take part in projects such as buildings, roads, bridges, dams, residences, hotels and shopping malls. ",
+    "ar": "في صناعة البناء والتشييد، نشارك في مشاريع مثل المباني والطرق والجسور والسدود والمساكن والفنادق ومراكز التسوق. "
+  },
+  "index": 2,
+  "desing": {
+    "header": [],
+    "body": [
+      "agoa8k"
+    ],
+    "footer": []
+  },
+  "desc": {},
+  "update": "2026-02-20T01:06:57.351Z",
+  "date": "2026-02-20T01:06:55.312Z",
+  "title": {
+    "tr": "Kozmetik Ürünlerimiz",
+    "en": "Our Cosmetic Products",
+    "ar": "منتجاتنا التجميلية"
+  }
+}

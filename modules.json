@@ -1,0 +1,828 @@
+{
+  "data": [
+    {
+      "index": 0,
+      "name": "Menü 2",
+      "path": "menu-2",
+      "local": "header",
+      "category": "menu",
+      "desing": {
+        "bgcolor": "#1e3046",
+        "color": "#ffffff",
+        "activebgcolor": "#ffffff",
+        "activecolor": "#000000"
+      },
+      "id": "ploy02",
+      "version": "1.0.0",
+      "icon": "menu"
+    },
+    {
+      "index": 1,
+      "name": "Footer 1",
+      "path": "footer-1",
+      "local": "footer",
+      "category": "footer",
+      "desing": {
+        "bgcolor": "#fff",
+        "color": "#fff",
+        "img": "",
+        "imgwidth": "250px"
+      },
+      "id": "d1vad6",
+      "data": [],
+      "version": "1.0.0",
+      "icon": "web_asset"
+    },
+    {
+      "index": 2,
+      "name": "Maps",
+      "path": "map",
+      "local": "body",
+      "category": "map",
+      "desing": {
+        "height": "200",
+        "opacity": "0.5",
+        "backgroundcolor": "#fff",
+        "color": "#1e3046",
+        "img": "bg.png",
+        "externalUrl": ""
+      },
+      "id": "j1bd0g",
+      "version": "1.0.0",
+      "icon": "map"
+    },
+    {
+      "index": 3,
+      "name": "Sosyal Media Slider",
+      "path": "social-slider-2",
+      "local": "body",
+      "category": "social-slider",
+      "desing": {
+        "name": {
+          "tr": "Sosyal Medyada Biz",
+          "en": "We on Social Media",
+          "ar": "نحن على وسائل التواصل الاجتماعي"
+        },
+        "padding": "25px 0px 25px 0px",
+        "margin": "0px 0px 0px 0px",
+        "color": "#fff",
+        "bgcolor": "#1e3046"
+      },
+      "data": [
+        {
+          "img": "/src/icon/facebook.png",
+          "externalUrl": ""
+        },
+        {
+          "img": "/src/icon/instagram.png",
+          "externalUrl": ""
+        },
+        {
+          "img": "/src/icon/linkedin.png",
+          "externalUrl": ""
+        },
+        {
+          "img": "/src/icon/youtube.png",
+          "externalUrl": ""
+        },
+        {
+          "img": "/src/icon/whatsapp.png",
+          "externalUrl": ""
+        },
+        {
+          "img": "/src/icon/google-maps.png",
+          "url": "https://www.google.com/maps/place/Makba%C5%9F+Al%C3%BCminyum/@37.0931804,37.3718507,17.58z/data=!4m6!3m5!1s0x1531e4494eee4d89:0xa4d5539a70b4da11!8m2!3d37.09314!4d37.373271!16s%2Fg%2F1tjxzw8d!5m1!1e4?entry=ttu&g_ep=EgoyMDI0MDkwOC4wIKXMDSoASAFQAw%3D%3D"
+        }
+      ],
+      "id": "mtamct",
+      "version": "1.0.0",
+      "icon": "share"
+    },
+    {
+      "index": 4,
+      "name": "Tanıtım Modülü",
+      "path": "module-1",
+      "local": "body",
+      "category": "module",
+      "desing": {
+        "name": {
+          "tr": "Makbaş LTD.ŞTİ.'yi Tanıyın",
+          "en": "Get to Know Makbaş LTD.ŞTİ.",
+          "ar": "تعرف على Makbaş LTD.ŞTİ."
+        },
+        "name2": {
+          "tr": "Vizyonumuz",
+          "en": "Our Vision",
+          "ar": "رؤيتنا"
+        },
+        "spot2": {
+          "tr": "Tüm sektörlerde yapacağımız inovasyonlarla adımızdan söz ettirmek.",
+          "en": "To make a name for ourselves with the innovations we will make in all sectors.",
+          "ar": "أن نصنع اسمًا لأنفسنا من خلال الابتكارات التي سنحققها في جميع القطاعات."
+        },
+        "icon2": "home",
+        "name3": {
+          "tr": "Misyonumuz",
+          "en": "Our mission",
+          "ar": "مهمتنا"
+        },
+        "spot3": {
+          "tr": "Hizmet sunduğumuz alanlarda ihtiyaç duyulan çözümleri sunmak.",
+          "en": "To provide the solutions needed in the areas we serve.",
+          "ar": "تقديم الحلول اللازمة في المناطق التي نخدمها."
+        },
+        "icon3": "home",
+        "img": "bg.jpg",
+        "bgcolor": "#1e3046",
+        "fontcolor": "#fff",
+        "margintop": "20",
+        "marginbotton": "20",
+        "description": {
+          "tr": "Company olarak 25 yıldır profesyonel personel kadromuz ile ithalat, ihracat, danışmanlık, lojistik ve transit ticaret alanlarında hizmet sunmaktan onur duyuyoruz. Ürünü olsun ya da olmasın, tüm firmalar için profesyonel ve kurumsal danışmanlık hizmeti sunarak firmaların etkin şekilde ithalat ya da ihracat yapmalarını sağlıyoruz.",
+          "en": "",
+          "ar": ""
+        }
+      },
+      "id": "cryxjs",
+      "version": "1.0.0",
+      "icon": "business"
+    },
+    {
+      "index": 5,
+      "name": "Page Desing 3",
+      "path": "page-desing-5",
+      "local": "body",
+      "category": "page",
+      "desing": {
+        "height": "200",
+        "opacity": "0.5",
+        "font-size": "50",
+        "backgroundcolor": "#000",
+        "menu-active": "#000",
+        "textcolor": "#fff"
+      },
+      "id": "bzrtz0",
+      "version": "1.0.0",
+      "icon": "web"
+    },
+    {
+      "index": 6,
+      "name": "İletişim",
+      "path": "contact-3",
+      "local": "body",
+      "category": "contact",
+      "desing": {
+        "color": "#1e3046",
+        "name": {
+          "tr": "Bize Ulaşın",
+          "en": "Contact us",
+          "ar": "اتصل بنا"
+        },
+        "margin": "30px 0px 30px 0px"
+      },
+      "data": [
+        {
+          "icon": "phone",
+          "text": "0342 323 17 13",
+          "url": "tel:03423231713"
+        },
+        {
+          "icon": "email",
+          "text": "info@makbas.com.tr",
+          "url": "email:info@makbas.com.tr"
+        },
+        {
+          "icon": "map",
+          "text": "Mücahitler Mah. Kudüs Cad. Güneş İş Merkezi Kat:3 No:13 Şehitkamil/GAZİANTEP"
+        }
+      ],
+      "id": "wqnt3a",
+      "version": "1.0.0",
+      "icon": "contact_mail"
+    },
+    {
+      "index": 7,
+      "name": "Slider",
+      "path": "slider",
+      "local": "header",
+      "category": "slider",
+      "desing": {
+        "delay": 3000,
+        "margin": "0px 0 0 0"
+      },
+      "data": [
+        {
+          "img": "1.jpg"
+        }
+      ],
+      "id": "fllys4",
+      "version": "1.0.0",
+      "icon": "view_carousel"
+    },
+    {
+      "index": 8,
+      "name": "Module Slider Liste",
+      "path": "module-slider-list",
+      "local": "body",
+      "category": "slider",
+      "desing": {
+        "name": {
+          "tr": "Ödüllerimiz",
+          "en": "Our awards",
+          "ar": "جوائزنا"
+        },
+        "size": 6,
+        "button": "true",
+        "aspect-ratio": "1/1",
+        "color1": "#fff",
+        "color2": "#e9e9e9"
+      },
+      "data": [
+        {
+          "img": "1.jpg"
+        },
+        {
+          "img": "2.jpg"
+        },
+        {
+          "img": "3.jpg"
+        },
+        {
+          "img": "2010.jpg"
+        },
+        {
+          "img": "2019.jpg"
+        },
+        {
+          "img": "2020.jpg"
+        },
+        {
+          "img": "2021.jpg"
+        },
+        {
+          "img": "2023.jpg"
+        }
+      ],
+      "id": "ubvzc4",
+      "version": "1.0.0",
+      "icon": "view_carousel"
+    },
+    {
+      "index": 9,
+      "name": "Markalarımız",
+      "path": "module-slider",
+      "local": "body",
+      "category": "slider",
+      "desing": {
+        "name": {
+          "tr": "Markalarımız",
+          "en": "Our brands",
+          "ar": "علاماتنا التجارية"
+        },
+        "size": 6,
+        "button": "true",
+        "bgcolor": "#e9e9e9",
+        "titlecolor": "#000",
+        "padding": "25px 0px 25px 0px",
+        "margin": "0px 0px 0px 0px"
+      },
+      "data": [
+        {
+          "img": "Al Jawaher 2016.jpg"
+        },
+        {
+          "img": "Camay-2010.jpg"
+        },
+        {
+          "img": "Dr.Noora-2014.jpg"
+        },
+        {
+          "img": "Harim Al Sultan-2015.jpg"
+        },
+        {
+          "img": "Jack-2016.jpg"
+        },
+        {
+          "img": "Katrat al nada-2016.jpg"
+        },
+        {
+          "img": "Lord-2010.jpg"
+        },
+        {
+          "img": "Luxpen-2009.jpg"
+        },
+        {
+          "img": "Luxwın-2011.jpg"
+        },
+        {
+          "img": "Nido-2010.jpg"
+        },
+        {
+          "img": "Razi 2018.jpg"
+        },
+        {
+          "img": "Shehrezad-2012.jpg"
+        },
+        {
+          "img": "Simya-2009.jpg"
+        },
+        {
+          "img": "Supertech-2012.jpg"
+        },
+        {
+          "img": "Süpermax-2013.jpg"
+        }
+      ],
+      "id": "hhlhqk",
+      "version": "1.0.0",
+      "icon": "view_carousel"
+    },
+    {
+      "index": 10,
+      "name": "İnşaat Ürünleri Katgori",
+      "path": "page-list-2",
+      "local": "body",
+      "category": "page-list",
+      "desing": {
+        "bgcolor": "#fff",
+        "color": "#000",
+        "page": "buildings",
+        "size": 3,
+        "category": "",
+        "aspect-ratio": "1 / 1"
+      },
+      "id": "nmcmjf",
+      "version": "1.0.0",
+      "icon": "grid_view"
+    },
+    {
+      "index": 11,
+      "name": "Sayfa Galerisi",
+      "path": "page-galeri-2",
+      "local": "body",
+      "category": "page-img-slider",
+      "id": "cx4dux",
+      "desing": {
+        "size": 4
+      },
+      "data": [
+        {
+          "img": "1.jpg"
+        },
+        {
+          "img": "2.jpg"
+        },
+        {
+          "img": "3.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Sayfa Alt Kategori",
+      "path": "page-category",
+      "local": "body",
+      "category": "page-category",
+      "desing": {
+        "page": "page",
+        "size": 4
+      },
+      "id": "grvbag",
+      "index": 12
+    },
+    {
+      "index": 13,
+      "name": "Kozmetik Ürünler",
+      "path": "module-list",
+      "local": "body",
+      "category": "Module-list",
+      "desing": {
+        "size": 5
+      },
+      "data": [
+        {
+          "img": "a (3).jpg"
+        },
+        {
+          "img": "a (4).jpg"
+        },
+        {
+          "img": "a (5).jpg"
+        },
+        {
+          "img": "a (6).jpg"
+        },
+        {
+          "img": "b (1).jpg"
+        },
+        {
+          "img": "b (2).jpg"
+        },
+        {
+          "img": "bbb.jpg"
+        },
+        {
+          "img": "bbbbbbbbbbb.jpg"
+        },
+        {
+          "img": "c (2).jpg"
+        },
+        {
+          "img": "c (23).jpg"
+        },
+        {
+          "img": "c (24).jpg"
+        },
+        {
+          "img": "c (26).jpg"
+        },
+        {
+          "img": "c (3).jpg"
+        },
+        {
+          "img": "d (10).jpg"
+        },
+        {
+          "img": "d (11).jpg"
+        },
+        {
+          "img": "d (12).jpg"
+        },
+        {
+          "img": "d (13).jpg"
+        },
+        {
+          "img": "d (15).jpg"
+        },
+        {
+          "img": "d (2).jpg"
+        },
+        {
+          "img": "d (3).jpg"
+        },
+        {
+          "img": "d (4).jpg"
+        },
+        {
+          "img": "d (5).jpg"
+        },
+        {
+          "img": "d (6).jpg"
+        },
+        {
+          "img": "d (7).jpg"
+        },
+        {
+          "img": "d (9).jpg"
+        },
+        {
+          "img": "f (1).jpg"
+        },
+        {
+          "img": "f (10).jpg"
+        },
+        {
+          "img": "f (2).jpg"
+        },
+        {
+          "img": "f (3).jpg"
+        },
+        {
+          "img": "f (4).jpg"
+        },
+        {
+          "img": "f (5).jpg"
+        },
+        {
+          "img": "f (6).jpg"
+        },
+        {
+          "img": "f (7).jpg"
+        },
+        {
+          "img": "f (8).jpg"
+        },
+        {
+          "img": "f (9).jpg"
+        },
+        {
+          "img": "IMG-20240912-WA0019.jpg"
+        },
+        {
+          "img": "IMG-20240912-WA0020.jpg"
+        },
+        {
+          "img": "IMG-20240912-WA0022.jpg"
+        },
+        {
+          "img": "IMG-20240912-WA0038.jpg"
+        },
+        {
+          "img": "IMG-20240912-WA0040.jpg"
+        },
+        {
+          "img": "IMG-20240912-WA0041.jpg"
+        },
+        {
+          "img": "IMG-20240912-WA0043.jpg"
+        },
+        {
+          "img": "IMG-20240912-WA0045.jpg"
+        },
+        {
+          "img": "IMG-20240912-WA0046.jpg"
+        },
+        {
+          "img": "IMG-20240912-WA0047.jpg"
+        },
+        {
+          "img": "IMG-20240912-WA0049.jpg"
+        },
+        {
+          "img": "IMG-20240912-WA0051.jpg"
+        },
+        {
+          "img": "IMG-20240912-WA0052.jpg"
+        },
+        {
+          "img": "IMG-20240912-WA0055.jpg"
+        },
+        {
+          "img": "IMG-20240912-WA0056.jpg"
+        },
+        {
+          "img": "IMG-20240912-WA0057.jpg"
+        },
+        {
+          "img": "IMG-20240912-WA0059.jpg"
+        },
+        {
+          "img": "IMG-20240912-WA0060.jpg"
+        },
+        {
+          "img": "IMG-20240912-WA0061.jpg"
+        },
+        {
+          "img": "IMG-20240912-WA0063.jpg"
+        },
+        {
+          "img": "IMG-20240912-WA0065.jpg"
+        },
+        {
+          "img": "IMG-20240912-WA0066.jpg"
+        },
+        {
+          "img": "IMG-20240912-WA0067.jpg"
+        },
+        {
+          "img": "IMG-20240912-WA0068.jpg"
+        },
+        {
+          "img": "IMG-20240912-WA0070.jpg"
+        },
+        {
+          "img": "IMG-20240912-WA0075.jpg"
+        },
+        {
+          "img": "IMG-20240912-WA0079.jpg"
+        },
+        {
+          "img": "IMG-20240912-WA0080.jpg"
+        },
+        {
+          "img": "IMG-20240912-WA0083.jpg"
+        },
+        {
+          "img": "IMG-20240912-WA0084.jpg"
+        },
+        {
+          "img": "IMG-20240912-WA0085.jpg"
+        },
+        {
+          "img": "IMG-20240912-WA0086.jpg"
+        },
+        {
+          "img": "IMG-20240912-WA0087.jpg"
+        },
+        {
+          "img": "IMG-20240912-WA0088.jpg"
+        },
+        {
+          "img": "IMG-20240912-WA0090.jpg"
+        },
+        {
+          "img": "IMG-20240912-WA0091.jpg"
+        },
+        {
+          "img": "IMG-20240912-WA0093.jpg"
+        },
+        {
+          "img": "IMG-20240912-WA0095.jpg"
+        },
+        {
+          "img": "IMG-20240912-WA0096.jpg"
+        },
+        {
+          "img": "IMG-20240912-WA0097.jpg"
+        },
+        {
+          "img": "IMG-20240912-WA0098.jpg"
+        },
+        {
+          "img": "IMG-20240912-WA0102.jpg"
+        },
+        {
+          "img": "IMG-20240912-WA0105.jpg"
+        },
+        {
+          "img": "IMG-20240912-WA0106.jpg"
+        },
+        {
+          "img": "IMG-20240912-WA0107.jpg"
+        },
+        {
+          "img": "IMG-20240912-WA0108.jpg"
+        },
+        {
+          "img": "IMG-20240912-WA0109.jpg"
+        },
+        {
+          "img": "IMG-20240912-WA0110.jpg"
+        },
+        {
+          "img": "IMG-20240912-WA0111.jpg"
+        },
+        {
+          "img": "IMG-20240912-WA0112.jpg"
+        },
+        {
+          "img": "IMG-20240912-WA0113.jpg"
+        },
+        {
+          "img": "IMG-20240912-WA0115.jpg"
+        },
+        {
+          "img": "IMG-20240912-WA0116.jpg"
+        },
+        {
+          "img": "IMG-20240912-WA0117.jpg"
+        },
+        {
+          "img": "IMG-20240912-WA0118.jpg"
+        },
+        {
+          "img": "IMG-20240912-WA0119.jpg"
+        },
+        {
+          "img": "IMG-20240912-WA0120.jpg"
+        },
+        {
+          "img": "IMG-20240912-WA0121.jpg"
+        },
+        {
+          "img": "IMG-20240912-WA0122.jpg"
+        },
+        {
+          "img": "IMG-20240912-WA0123.jpg"
+        },
+        {
+          "img": "IMG-20240912-WA0124.jpg"
+        },
+        {
+          "img": "IMG-20240912-WA0125.jpg"
+        },
+        {
+          "img": "IMG-20240912-WA0126.jpg"
+        },
+        {
+          "img": "IMG-20240912-WA0127.jpg"
+        },
+        {
+          "img": "IMG-20240912-WA0128.jpg"
+        },
+        {
+          "img": "IMG-20240912-WA0129.jpg"
+        },
+        {
+          "img": "IMG-20240912-WA0130.jpg"
+        },
+        {
+          "img": "IMG-20240912-WA0131.jpg"
+        },
+        {
+          "img": "IMG-20240912-WA0132.jpg"
+        },
+        {
+          "img": "IMG-20240912-WA0133.jpg"
+        },
+        {
+          "img": "IMG-20240912-WA0134.jpg"
+        },
+        {
+          "img": "IMG-20240912-WA0135.jpg"
+        },
+        {
+          "img": "IMG-20240912-WA0136.jpg"
+        },
+        {
+          "img": "IMG-20240912-WA0137.jpg"
+        },
+        {
+          "img": "IMG-20240912-WA0138.jpg"
+        },
+        {
+          "img": "IMG-20240912-WA0139.jpg"
+        },
+        {
+          "img": "IMG-20240912-WA0140.jpg"
+        },
+        {
+          "img": "IMG-20240912-WA0141.jpg"
+        },
+        {
+          "img": "IMG-20240912-WA0142.jpg"
+        },
+        {
+          "img": "IMG-20240912-WA0143.jpg"
+        },
+        {
+          "img": "IMG-20240912-WA0150.jpg"
+        },
+        {
+          "img": "IMG-20240912-WA0151.jpg"
+        },
+        {
+          "img": "IMG-20240912-WA0152.jpg"
+        },
+        {
+          "img": "IMG-20240912-WA0153.jpg"
+        },
+        {
+          "img": "IMG-20240912-WA0154.jpg"
+        },
+        {
+          "img": "IMG-20240912-WA0155.jpg"
+        },
+        {
+          "img": "IMG-20240912-WA0156.jpg"
+        },
+        {
+          "img": "IMG-20240912-WA0157.jpg"
+        },
+        {
+          "img": "IMG-20240912-WA0158.jpg"
+        },
+        {
+          "img": "IMG-20240912-WA0160.jpg"
+        },
+        {
+          "img": "IMG-20240912-WA0161.jpg"
+        },
+        {
+          "img": "IMG-20240912-WA0162.jpg"
+        },
+        {
+          "img": "IMG-20240912-WA0163.jpg"
+        },
+        {
+          "img": "IMG-20240912-WA0164.jpg"
+        },
+        {
+          "img": "IMG-20240912-WA0165.jpg"
+        },
+        {
+          "img": "IMG-20240912-WA0181.jpg"
+        },
+        {
+          "img": "IMG-20240912-WA0182.jpg"
+        },
+        {
+          "img": "IMG-20240912-WA0184.jpg"
+        },
+        {
+          "img": "IMG-20240912-WA0186.jpg"
+        },
+        {
+          "img": "IMG-20240912-WA0187.jpg"
+        },
+        {
+          "img": "IMG-20240912-WA0188.jpg"
+        },
+        {
+          "img": "IMG-20240912-WA0189.jpg"
+        },
+        {
+          "img": "x (1).jpg"
+        },
+        {
+          "img": "y (1).jpg"
+        },
+        {
+          "img": "y (2).jpg"
+        }
+      ],
+      "id": "agoa8k",
+      "version": "1.0.0",
+      "icon": "apps"
+    }
+  ]
+}

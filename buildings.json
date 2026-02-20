@@ -1,0 +1,829 @@
+{
+  "name": "İnşaat Ürünleri",
+  "path": "buildings",
+  "desc": [],
+  "index": 1,
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "modulestatus": {
+    "img": true,
+    "bgimg": false,
+    "detail": false,
+    "body": true
+  },
+  "data": [
+    {
+      "name": {
+        "tr": "Kapı Ürünleri",
+        "en": "ADOKAPI Door",
+        "ar": "باب أدوكابي"
+      },
+      "status": "play",
+      "category": "",
+      "id": "i9raabh91f",
+      "path": "adokapi-kapi-urunleri",
+      "description": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "index": 0,
+      "desing": {
+        "header": [],
+        "body": [
+          "cx4dux"
+        ],
+        "footer": []
+      },
+      "img": "nn9si.webp",
+      "desc": {},
+      "icon": "home"
+    },
+    {
+      "name": {
+        "tr": "MDF Ürünler",
+        "en": "MDF",
+        "ar": "يمول"
+      },
+      "status": "play",
+      "category": "",
+      "id": "d0trinm34n",
+      "path": "mdf",
+      "description": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "index": 1,
+      "desing": {
+        "header": [],
+        "body": [
+          "cx4dux"
+        ],
+        "footer": []
+      },
+      "img": "fs3cs.webp",
+      "desc": {},
+      "icon": "home"
+    },
+    {
+      "name": {
+        "tr": "Alüminyum Profiller",
+        "en": "GET",
+        "ar": "يحصل"
+      },
+      "status": "play",
+      "category": "",
+      "id": "tclq9r1hbl",
+      "path": "aluminyum-urunler",
+      "description": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "index": 2,
+      "desing": {
+        "header": [],
+        "body": [
+          "grvbag"
+        ],
+        "footer": []
+      },
+      "img": "vsv69.webp",
+      "desc": {},
+      "icon": "home"
+    },
+    {
+      "name": {
+        "tr": "Aksesuar Çeşitleri",
+        "en": "Accessory Types",
+        "ar": "أنواع الملحقات"
+      },
+      "status": "play",
+      "category": "",
+      "id": "os3wsgiuny",
+      "path": "aksesuar-cesitleri",
+      "description": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "index": 3,
+      "desing": {
+        "header": [],
+        "body": [
+          "grvbag"
+        ],
+        "footer": []
+      },
+      "img": "qr0aq.webp",
+      "desc": {},
+      "icon": "home"
+    },
+    {
+      "name": {
+        "tr": "PVC Profilleri",
+        "en": "PVC",
+        "ar": "بولي كلوريد الفينيل"
+      },
+      "status": "play",
+      "category": "",
+      "id": "nsxlzhzawl",
+      "path": "pvc",
+      "description": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "index": 4,
+      "desing": {
+        "header": [],
+        "body": [
+          "grvbag"
+        ],
+        "footer": []
+      },
+      "img": "e58go.webp",
+      "desc": {},
+      "icon": "home"
+    },
+    {
+      "name": {
+        "tr": "S 60",
+        "en": "S 60",
+        "ar": "س 60"
+      },
+      "status": "play",
+      "category": "nsxlzhzawl",
+      "id": "y8vszwjc6o",
+      "path": "s-60",
+      "description": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "index": 5,
+      "desing": {
+        "header": [],
+        "body": [
+          "cx4dux",
+          "grvbag"
+        ],
+        "footer": []
+      },
+      "desc": {},
+      "icon": "home"
+    },
+    {
+      "name": {
+        "tr": "S 70",
+        "en": "S 70",
+        "ar": "س 70"
+      },
+      "status": "play",
+      "category": "nsxlzhzawl",
+      "id": "no8d95y7qc",
+      "path": "s-70",
+      "description": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "desing": {
+        "header": [],
+        "body": [
+          "cx4dux",
+          "grvbag"
+        ],
+        "footer": []
+      },
+      "index": 6,
+      "desc": {},
+      "icon": "home"
+    },
+    {
+      "name": {
+        "tr": "S 750",
+        "en": "S 750",
+        "ar": "س 750"
+      },
+      "status": "play",
+      "category": "nsxlzhzawl",
+      "id": "c8r32zl4tu",
+      "path": "s-750",
+      "description": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "desing": {
+        "header": [],
+        "body": [
+          "cx4dux",
+          "grvbag"
+        ],
+        "footer": []
+      },
+      "index": 7,
+      "desc": {},
+      "icon": "home"
+    },
+    {
+      "name": {
+        "tr": "S 790",
+        "en": "S 790",
+        "ar": "س 790"
+      },
+      "status": "play",
+      "category": "nsxlzhzawl",
+      "id": "x1hgxzg9xm",
+      "path": "s-790",
+      "description": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "desing": {
+        "header": [],
+        "body": [
+          "cx4dux",
+          "grvbag"
+        ],
+        "footer": []
+      },
+      "index": 8,
+      "desc": {},
+      "icon": "home"
+    },
+    {
+      "name": {
+        "tr": "Kapı ve Pencere Kolları",
+        "en": "DOOR AND WINDOW HANDLES",
+        "ar": "مقابض الأبواب والنوافذ"
+      },
+      "status": "play",
+      "category": "os3wsgiuny",
+      "id": "e78pwtxicy",
+      "path": "kapi-ve-pencere-kollari",
+      "description": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "desing": {
+        "header": [],
+        "body": [
+          "cx4dux",
+          "grvbag"
+        ],
+        "footer": []
+      },
+      "index": 9,
+      "desc": {},
+      "icon": "home"
+    },
+    {
+      "name": {
+        "tr": "Menteşeler",
+        "en": "HINGES",
+        "ar": "مفصلات"
+      },
+      "status": "play",
+      "category": "os3wsgiuny",
+      "id": "bgz2u3is4d",
+      "path": "menteseler",
+      "description": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "desing": {
+        "header": [],
+        "body": [
+          "cx4dux",
+          "grvbag"
+        ],
+        "footer": []
+      },
+      "index": 10,
+      "desc": {},
+      "icon": "home"
+    },
+    {
+      "name": {
+        "tr": "Lastik Conta",
+        "en": "Tyre",
+        "ar": "صور"
+      },
+      "status": "play",
+      "category": "os3wsgiuny",
+      "id": "aa5khcym3c",
+      "path": "lastik",
+      "description": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "desing": {
+        "header": [],
+        "body": [
+          "cx4dux",
+          "grvbag"
+        ],
+        "footer": []
+      },
+      "index": 11,
+      "desc": {},
+      "icon": "home"
+    },
+    {
+      "name": {
+        "tr": "Alüminyum Aksesuar",
+        "en": "ALUMINUM ACCESSORY",
+        "ar": "إكسسوارات من الألومنيوم"
+      },
+      "status": "play",
+      "category": "os3wsgiuny",
+      "id": "uwwum8e592",
+      "path": "aluminyum-aksesuar",
+      "description": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "desing": {
+        "header": [],
+        "body": [
+          "cx4dux",
+          "grvbag"
+        ],
+        "footer": []
+      },
+      "index": 12,
+      "desc": {},
+      "icon": "home"
+    },
+    {
+      "name": {
+        "tr": "PVC Aksesuar",
+        "en": "PVC ACCESSORY",
+        "ar": "ملحق PVC"
+      },
+      "status": "play",
+      "category": "os3wsgiuny",
+      "id": "gwd700tanw",
+      "path": "pvc-aksesuar",
+      "description": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "desing": {
+        "header": [],
+        "body": [
+          "cx4dux",
+          "grvbag"
+        ],
+        "footer": []
+      },
+      "index": 13,
+      "desc": {},
+      "icon": "home"
+    },
+    {
+      "name": {
+        "tr": "Sürme Sistemi Tekerlekleri",
+        "en": "SLIDING SYSTEM WHEELS",
+        "ar": "عجلات نظام الانزلاق"
+      },
+      "status": "play",
+      "category": "os3wsgiuny",
+      "id": "ql0lpb11ii",
+      "path": "surme-sistemi-tekerlekleri",
+      "description": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "desing": {
+        "header": [],
+        "body": [
+          "cx4dux",
+          "grvbag"
+        ],
+        "footer": []
+      },
+      "index": 14,
+      "desc": {},
+      "icon": "home"
+    },
+    {
+      "name": {
+        "tr": "KÖŞE + FUJI",
+        "en": "CORNER + FUJI",
+        "ar": "ركن + فوجي"
+      },
+      "status": "play",
+      "category": "os3wsgiuny",
+      "id": "edp847iqix",
+      "path": "kose-fuji",
+      "description": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "desing": {
+        "header": [],
+        "body": [
+          "cx4dux",
+          "grvbag"
+        ],
+        "footer": []
+      },
+      "index": 15,
+      "desc": {},
+      "icon": "home"
+    },
+    {
+      "name": {
+        "tr": "Ragny Köşe Bağlantı Takozları",
+        "en": "RAGNY CORNER CONNECTION Wedges",
+        "ar": "RAGNY CORNER CONNECTION أسافين"
+      },
+      "status": "play",
+      "category": "os3wsgiuny",
+      "id": "chkh6ci7fq",
+      "path": "ragny-kose-baglanti-takozlari",
+      "description": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "desing": {
+        "header": [],
+        "body": [
+          "cx4dux",
+          "grvbag"
+        ],
+        "footer": []
+      },
+      "index": 16,
+      "desc": {},
+      "icon": "home"
+    },
+    {
+      "name": {
+        "tr": "Silikon + Mastik + Sineklik Teli",
+        "en": "SILICONE + MASTIC + FLY MESH",
+        "ar": "سيليكون + ماستيك + شبكة فلاي"
+      },
+      "status": "play",
+      "category": "os3wsgiuny",
+      "id": "ncup3ft2wm",
+      "path": "silikon-mastik-sineklik-teli",
+      "description": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "desing": {
+        "header": [],
+        "body": [
+          "cx4dux",
+          "grvbag"
+        ],
+        "footer": []
+      },
+      "index": 17,
+      "desc": {},
+      "icon": "home"
+    },
+    {
+      "name": {
+        "tr": "Kale Kilit",
+        "en": "CASTLE LOCK",
+        "ar": "قفل القلعة"
+      },
+      "status": "play",
+      "category": "os3wsgiuny",
+      "id": "eqwc99zg6i",
+      "path": "kale-kilit",
+      "description": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "desing": {
+        "header": [],
+        "body": [
+          "cx4dux",
+          "grvbag"
+        ],
+        "footer": []
+      },
+      "index": 18,
+      "desc": {},
+      "icon": "home"
+    },
+    {
+      "name": {
+        "tr": "Kaya Pen Menteşeleri",
+        "en": "KAYA PEN HINGES",
+        "ar": "مفصلات أقلام كايا"
+      },
+      "status": "play",
+      "category": "os3wsgiuny",
+      "id": "esvg6zu45b",
+      "path": "kaya-pen-menteseleri",
+      "description": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "desing": {
+        "header": [],
+        "body": [
+          "cx4dux",
+          "grvbag"
+        ],
+        "footer": []
+      },
+      "index": 19,
+      "desc": {},
+      "icon": "home"
+    },
+    {
+      "name": {
+        "tr": "Kaya Pen Kapı Kolları",
+        "en": "KAYA PEN DOOR HANDLES",
+        "ar": "مقابض أبواب قلم كايا"
+      },
+      "status": "play",
+      "category": "os3wsgiuny",
+      "id": "c8ordoj7r5",
+      "path": "kaya-pen-kapi-kollari",
+      "description": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "desing": {
+        "header": [],
+        "body": [
+          "cx4dux",
+          "grvbag"
+        ],
+        "footer": []
+      },
+      "index": 20,
+      "desc": {},
+      "icon": "home"
+    },
+    {
+      "name": {
+        "tr": "Supermax Vida Çeşitleri",
+        "en": "SUPERMAX SCREW TYPES",
+        "ar": "أنواع براغي سوبرماكس"
+      },
+      "status": "play",
+      "category": "os3wsgiuny",
+      "id": "ilnx52ob9y",
+      "path": "supermax-vida-cesitleri",
+      "description": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "desing": {
+        "header": [],
+        "body": [
+          "cx4dux",
+          "grvbag"
+        ],
+        "footer": []
+      },
+      "index": 21,
+      "desc": {},
+      "icon": "home"
+    },
+    {
+      "name": {
+        "tr": "Accado ispanyollet",
+        "en": "ACCADO SPANISHET",
+        "ar": "أكادو الإسبانية"
+      },
+      "status": "play",
+      "category": "os3wsgiuny",
+      "id": "zgylts03pl",
+      "path": "accado-ispanyolet",
+      "description": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "desing": {
+        "header": [],
+        "body": [
+          "cx4dux",
+          "grvbag"
+        ],
+        "footer": []
+      },
+      "index": 22,
+      "desc": {},
+      "icon": "home"
+    },
+    {
+      "name": {
+        "tr": "Alüminyum Oldox",
+        "en": "Aluminum Oldox",
+        "ar": "الألومنيوم أولدوكس"
+      },
+      "status": "play",
+      "category": "tclq9r1hbl",
+      "id": "gxkm744n9t",
+      "path": "aluminyum-oldox",
+      "description": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "index": 23,
+      "desing": {
+        "header": [],
+        "body": [
+          "cx4dux",
+          "grvbag"
+        ],
+        "footer": []
+      },
+      "desc": {},
+      "icon": "home"
+    },
+    {
+      "name": {
+        "tr": "Alüminyum Sistem",
+        "en": "Aluminum System",
+        "ar": "نظام الألمنيوم"
+      },
+      "status": "play",
+      "category": "tclq9r1hbl",
+      "id": "dkqlgdv1ku",
+      "path": "aluminyum-sistem",
+      "description": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "index": 24,
+      "desing": {
+        "header": [],
+        "body": [
+          "cx4dux",
+          "grvbag"
+        ],
+        "footer": []
+      },
+      "desc": {},
+      "icon": "home"
+    },
+    {
+      "name": {
+        "tr": "Alüminyum C 60",
+        "en": "Aluminum C 60",
+        "ar": "الألومنيوم ج60"
+      },
+      "status": "play",
+      "category": "tclq9r1hbl",
+      "id": "pmlbms4kg1",
+      "path": "aluminyum-c-60",
+      "description": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "index": 25,
+      "desing": {
+        "header": [],
+        "body": [
+          "cx4dux",
+          "grvbag"
+        ],
+        "footer": []
+      },
+      "desc": {},
+      "icon": "home"
+    },
+    {
+      "name": {
+        "tr": "Alüminyum S 55",
+        "en": "Aluminum S 55",
+        "ar": "الألومنيوم س 55"
+      },
+      "status": "play",
+      "category": "tclq9r1hbl",
+      "id": "cu94nd1bgc",
+      "path": "aluminyum-s-55",
+      "description": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "index": 26,
+      "desing": {
+        "header": [],
+        "body": [
+          "cx4dux",
+          "grvbag"
+        ],
+        "footer": []
+      },
+      "desc": {},
+      "icon": "home"
+    },
+    {
+      "name": {
+        "tr": "Italyan alüminyum sistemi",
+        "en": "Italian aluminum system",
+        "ar": "نظام الالمنيوم ايطالي"
+      },
+      "status": "play",
+      "category": "tclq9r1hbl",
+      "id": "lohtw7dqwu",
+      "path": "italyan-aluminyum-sistemi",
+      "description": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "index": 27,
+      "desing": {
+        "header": [],
+        "body": [
+          "cx4dux",
+          "grvbag"
+        ],
+        "footer": []
+      },
+      "desc": {},
+      "icon": "home"
+    },
+    {
+      "name": {
+        "tr": "Alüminyum izolatör",
+        "en": "aluminum insulator",
+        "ar": "عازل الألمنيوم"
+      },
+      "status": "play",
+      "category": "tclq9r1hbl",
+      "id": "ilyfd490v1",
+      "path": "aluminyum-izolator",
+      "description": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "index": 28,
+      "desing": {
+        "header": [],
+        "body": [
+          "cx4dux",
+          "grvbag"
+        ],
+        "footer": []
+      },
+      "desc": {},
+      "icon": "home"
+    },
+    {
+      "name": {
+        "tr": "Alüminyum Tezgah",
+        "en": "Aluminum Countertop",
+        "ar": "كونترتوب الألومنيوم"
+      },
+      "status": "play",
+      "category": "tclq9r1hbl",
+      "id": "hy4b84phr4",
+      "path": "aluminyum-tezgah",
+      "description": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "index": 29,
+      "desing": {
+        "header": [],
+        "body": [
+          "cx4dux",
+          "grvbag"
+        ],
+        "footer": []
+      },
+      "desc": {},
+      "icon": "home"
+    }
+  ]
+}

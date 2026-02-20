@@ -1,0 +1,65 @@
+{
+  "name": {
+    "tr": "Menteşeler",
+    "en": "HINGES",
+    "ar": "مفصلات"
+  },
+  "status": "play",
+  "category": "os3wsgiuny",
+  "id": "bgz2u3is4d",
+  "externalUrl": "",
+  "path": "menteseler",
+  "keyword": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "description": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "desc": {},
+  "desing": {
+    "header": [],
+    "body": [
+      "cx4dux",
+      "grvbag"
+    ],
+    "footer": []
+  },
+  "index": 10,
+  "slider": [
+    {
+      "img": "photo_2023-08-20_17-09-47-1-225x300.webp"
+    },
+    {
+      "img": "photo_2023-08-20_17-09-47-2-1-225x300.webp"
+    },
+    {
+      "img": "photo_2023-08-20_17-09-48-2-1-225x300.webp"
+    },
+    {
+      "img": "photo_2023-08-20_17-10-21-2-1-225x300.webp"
+    },
+    {
+      "img": "photo_2023-08-20_17-13-51-1-225x300.webp"
+    },
+    {
+      "img": "photo_2023-08-20_19-17-24-2-225x300.webp"
+    },
+    {
+      "img": "photo_2023-08-31_05-20-20-8-225x300.webp"
+    },
+    {
+      "img": "photo_2023-08-31_05-20-b-1-225x300.webp"
+    }
+  ],
+  "update": "2026-02-20T01:06:57.521Z",
+  "date": "2026-02-20T01:06:55.495Z",
+  "title": {
+    "tr": "Menteşeler",
+    "en": "HINGES",
+    "ar": "مفصلات"
+  }
+}

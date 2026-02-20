@@ -1,0 +1,44 @@
+{
+  "name": {
+    "tr": "Kişisel Veriler",
+    "en": "Personal Data",
+    "ar": "البيانات الشخصية"
+  },
+  "status": "play",
+  "category": "hrzon62r9y",
+  "id": "xrfyuodli1",
+  "externalUrl": "",
+  "path": "kisisel-veriler",
+  "keyword": {
+    "tr": "kişisel veriler, gizlilik politikası, veri güvenliği",
+    "en": "personal data, privacy policy, data security",
+    "ar": "البيانات الشخصية، سياسة الخصوصية، أمن البيانات"
+  },
+  "description": {
+    "tr": "Makbaş LTD.ŞTİ. olarak, sizlerin kişisel verilerini korumaya çalışıyoruz. Gizlilik politikamız kapsamında, sizlerin verilerini nasıl koruduğumuzu ve kullandığımızı bu sayfada bulabilirsiniz.",
+    "en": "Makbaş LTD.ŞTİ. ",
+    "ar": "Makbaş LTD.ŞTİ. "
+  },
+  "text": {
+    "tr": "<main>\n    <section class=\"flexColumn gap5 f16 personal-data-section\">\n        <h1>Kişisel Veriler</h1>\n        <p><strong>Kişisel Verilerin Korunması ve Yönetimi</strong></p>\n        <p>Makbaş LTD.ŞTİ., kişisel verilerin korunmasını en yüksek öncelik olarak kabul eder ve bu konuda gerekli tüm tedbirleri alır. Kişisel verilerinizin güvenliğini sağlamak ve gizliliğinizi korumak amacıyla yürüttüğümüz politikalar aşağıda açıklanmıştır:</p>\n        <h2>Veri Toplama ve Kullanma</h2>\n        <p>Kişisel veriler, sadece yasal çerçevede ve belirli amaçlar doğrultusunda toplanır. Topladığımız veriler şunları içerebilir:</p>\n        <ul>\n            <li>İletişim bilgileri (ad, soyad, e-posta adresi, telefon numarası)</li>\n            <li>Şirketimizle yapılan işlemler ve satın alımlar hakkında bilgiler</li>\n            <li>Web sitemizi ziyaret ettiğinizde topladığımız teknik veriler (IP adresi, tarayıcı bilgileri)</li>\n        </ul>\n        <h2>Veri Güvenliği</h2>\n        <p>Kişisel verilerinizin güvenliğini sağlamak için gerekli teknik ve idari önlemleri alıyoruz. Verilerinizin yetkisiz erişim, kullanım, değişiklik veya kayıptan korunması için çeşitli güvenlik protokolleri uygulamaktayız.</p>\n        <h2>Veri Saklama</h2>\n        <p>Kişisel verilerinizi yalnızca gerekli olduğu sürece ve yasal gerekliliklere uygun olarak saklarız. Verilerinizin saklama süresi, ilgili mevzuat ve iş gereksinimlerine göre belirlenir.</p>\n        <h2>Veri Paylaşımı</h2>\n        <p>Kişisel verileriniz, yalnızca yasal yükümlülüklerimiz veya hizmetlerimizi sağlamak amacıyla işbirliği yaptığımız üçüncü taraflarla paylaşılabilir. Verilerinizi paylaşmadan önce gerekli güvenlik önlemleri alınır ve gizliliğiniz korunur.</p>\n        <h2>Haklarınız</h2>\n        <p>Kişisel verilerinizle ilgili olarak aşağıdaki haklara sahipsiniz:</p>\n        <ul>\n            <li>Verilerinize erişim hakkı</li>\n            <li>Verilerin düzeltilmesi hakkı</li>\n            <li>Verilerin silinmesi hakkı</li>\n            <li>Veri işleme faaliyetlerine itiraz etme hakkı</li>\n        </ul>\n        <p>Bu haklarınızı kullanmak veya daha fazla bilgi almak için bizimle iletişime geçebilirsiniz.</p>\n        <h2>İletişim</h2>\n        <p>Kişisel verilerinizle ilgili sorularınız veya endişeleriniz varsa, lütfen aşağıdaki iletişim bilgileri aracılığıyla bizimle iletişime geçin:</p>\n        <p><strong>Makbaş LTD.ŞTİ.</strong><br>\n    </section>\n</main>",
+    "en": "<section class=\"flexColumn gap5 f16 personal-data-section\">\n        <h1>Personal Data</h1>\n        <p><strong>Protection and Management of Personal Data</strong></p>\n        <p>Makbaş LTD. ŞTİ. considers the protection of personal data as a top priority and takes all necessary measures in this regard. The policies we implement to ensure the security of your personal data and protect your privacy are outlined below:</p>\n        <h2>Data Collection and Use</h2>\n        <p>Personal data is collected only within the legal framework and for specific purposes. The data we collect may include:</p>\n        <ul>\n            <li>Contact information (name, surname, email address, phone number)</li>\n            <li>Information about transactions and purchases made with our company</li>\n            <li>Technical data collected when you visit our website (IP address, browser information)</li>\n        </ul>\n        <h2>Data Security</h2>\n        <p>We take necessary technical and administrative measures to ensure the security of your personal data. We implement various security protocols to protect your data from unauthorized access, use, alteration, or loss.</p>\n        <h2>Data Retention</h2>\n        <p>We only retain your personal data for as long as necessary and in compliance with legal requirements. The retention period of your data is determined according to relevant legislation and business requirements.</p>\n        <h2>Data Sharing</h2>\n        <p>Your personal data may only be shared with third parties with whom we collaborate to fulfill our legal obligations or to provide our services. Necessary security measures are taken before sharing your data, and your privacy is protected.</p>\n        <h2>Your Rights</h2>\n        <p>You have the following rights regarding your personal data:</p>\n        <ul>\n            <li>Right to access your data</li>\n            <li>Right to rectify your data</li>\n            <li>Right to delete your data</li>\n            <li>Right to object to data processing activities</li>\n        </ul>\n        <p>You can contact us to exercise these rights or for more information.</p>\n        <h2>Contact</h2>\n        <p>If you have any questions or concerns regarding your personal data, please contact us using the information below:</p>\n        <p><strong>Makbaş LTD.ŞTİ.</strong><br>\n    </section>\n</main>",
+    "ar": "<الرئيسية>\n    <section class=\"flexColumn gap5 f16 personal-data-section\">\n        <h1>البيانات الشخصية</h1>\n        <p><strong>حماية وإدارة البيانات الشخصية</strong></p>\n        <p>تعتبر شركة مكباش LTD. ŞTİ. حماية البيانات الشخصية من الأولويات القصوى وتتخذ جميع التدابير اللازمة في هذا الصدد. يتم توضيح السياسات التي ننفذها لضمان أمان بياناتك الشخصية وحماية خصوصيتك أدناه:</p>\n        <h2>جمع البيانات واستخدامها</h2>\n        <p>تجمع البيانات الشخصية فقط ضمن الإطار القانوني ولأغراض محددة. قد تشمل البيانات التي نجمعها:</p>\n        <ul>\n            <li>معلومات الاتصال (الاسم، اللقب، عنوان البريد الإلكتروني، رقم الهاتف)</li>\n            <li>معلومات حول المعاملات والمشتريات التي تمت مع شركتنا</li>\n            <li>البيانات الفنية التي نجمعها عند زيارة موقعنا الإلكتروني (عنوان IP، معلومات المتصفح)</li>\n        </ul>\n        <h2>أمان البيانات</h2>\n        <p>نحن نتخذ التدابير الفنية والإدارية اللازمة لضمان أمان بياناتك الشخصية. نقوم بتنفيذ بروتوكولات أمان متنوعة لحماية بياناتك من الوصول غير المصرح به أو الاستخدام أو التغيير أو الفقدان.</p>\n        <h2>احتفاظ البيانات</h2>\n        <p>نحتفظ ببياناتك الشخصية فقط بقدر ما هو ضروري وامتثالاً للمتطلبات القانونية. يتم تحديد مدة الاحتفاظ ببياناتك وفقًا للتشريعات ذات الصلة ومتطلبات العمل.</p>\n        <h2>مشاركة البيانات</h2>\n        <p>يمكن مشاركة بياناتك الشخصية فقط مع الأطراف الثالثة التي نتعاون معها لتلبية التزاماتنا القانونية أو لتقديم خدماتنا. يتم اتخاذ التدابير الأمنية اللازمة قبل مشاركة بياناتك، ويتم حماية خصوصيتك.</p>\n        <h2>حقوقك</h2>\n        <p>لديك الحقوق التالية بشأن بياناتك الشخصية:</p>\n        <ul>\n            <li>حق الوصول إلى بياناتك</li>\n            <li>حق تصحيح بياناتك</li>\n            <li>حق حذف بياناتك</li>\n            <li>حق الاعتراض على أنشطة معالجة البيانات</li>\n        </ul>\n        <p>يمكنك الاتصال بنا لممارسة هذه الحقوق أو للحصول على مزيد من المعلومات.</p>\n        <h2>الاتصال</h2>\n        <p>إذا كانت لديك أي أسئلة أو مخاوف بشأن بياناتك الشخصية، يرجى الاتصال بنا باستخدام المعلومات أدناه:</p>\n        <p><strong>شركة مكباش LTD.ŞTİ.</strong><br>\n    </section>\n</main>"
+  },
+  "desc": {},
+  "index": 9,
+  "desing": {
+    "header": [],
+    "body": [
+      "bzrtz0"
+    ],
+    "footer": []
+  },
+  "bgimg": "qto1t.jpg",
+  "update": "2026-02-20T01:06:57.413Z",
+  "date": "2026-02-20T01:06:55.379Z",
+  "title": {
+    "tr": "Kişisel Veriler",
+    "en": "Personal Data",
+    "ar": "البيانات الشخصية"
+  }
+}

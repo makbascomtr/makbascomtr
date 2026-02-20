@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "name": "Sayfalar",
+      "path": "page",
+      "desc": [],
+      "index": 0,
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "modulestatus": {
+        "detail": true,
+        "page": true,
+        "body": true,
+        "bgimg": false
+      }
+    },
+    {
+      "name": "İnşaat Ürünleri",
+      "path": "buildings",
+      "desc": [],
+      "index": 1,
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "modulestatus": {
+        "img": true,
+        "bgimg": false,
+        "detail": false,
+        "body": true
+      }
+    }
+  ]
+}

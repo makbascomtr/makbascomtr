@@ -1,0 +1,341 @@
+{
+  "name": {
+    "tr": "Kapı Ürünleri",
+    "en": "ADOKAPI Door",
+    "ar": "باب أدوكابي"
+  },
+  "status": "play",
+  "category": "",
+  "id": "i9raabh91f",
+  "externalUrl": "",
+  "path": "adokapi-kapi-urunleri",
+  "keyword": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "description": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "index": 0,
+  "desing": {
+    "header": [],
+    "body": [
+      "cx4dux"
+    ],
+    "footer": []
+  },
+  "desc": {},
+  "img": "nn9si.webp",
+  "slider": [
+    {
+      "img": "door (1).webp"
+    },
+    {
+      "img": "door (10).webp"
+    },
+    {
+      "img": "door (100).webp"
+    },
+    {
+      "img": "door (11).webp"
+    },
+    {
+      "img": "door (12).webp"
+    },
+    {
+      "img": "door (13).webp"
+    },
+    {
+      "img": "door (14).webp"
+    },
+    {
+      "img": "door (15).webp"
+    },
+    {
+      "img": "door (16).webp"
+    },
+    {
+      "img": "door (17).webp"
+    },
+    {
+      "img": "door (18).webp"
+    },
+    {
+      "img": "door (19).webp"
+    },
+    {
+      "img": "door (2).webp"
+    },
+    {
+      "img": "door (20).webp"
+    },
+    {
+      "img": "door (21).webp"
+    },
+    {
+      "img": "door (22).webp"
+    },
+    {
+      "img": "door (23).webp"
+    },
+    {
+      "img": "door (24).webp"
+    },
+    {
+      "img": "door (25).webp"
+    },
+    {
+      "img": "door (26).webp"
+    },
+    {
+      "img": "door (27).webp"
+    },
+    {
+      "img": "door (28).webp"
+    },
+    {
+      "img": "door (29).webp"
+    },
+    {
+      "img": "door (3).webp"
+    },
+    {
+      "img": "door (30).webp"
+    },
+    {
+      "img": "door (31).webp"
+    },
+    {
+      "img": "door (32).webp"
+    },
+    {
+      "img": "door (33).webp"
+    },
+    {
+      "img": "door (34).webp"
+    },
+    {
+      "img": "door (35).webp"
+    },
+    {
+      "img": "door (36).webp"
+    },
+    {
+      "img": "door (37).webp"
+    },
+    {
+      "img": "door (38).webp"
+    },
+    {
+      "img": "door (39).webp"
+    },
+    {
+      "img": "door (4).webp"
+    },
+    {
+      "img": "door (40).webp"
+    },
+    {
+      "img": "door (41).webp"
+    },
+    {
+      "img": "door (42).webp"
+    },
+    {
+      "img": "door (43).webp"
+    },
+    {
+      "img": "door (44).webp"
+    },
+    {
+      "img": "door (45).webp"
+    },
+    {
+      "img": "door (46).webp"
+    },
+    {
+      "img": "door (47).webp"
+    },
+    {
+      "img": "door (48).webp"
+    },
+    {
+      "img": "door (49).webp"
+    },
+    {
+      "img": "door (5).webp"
+    },
+    {
+      "img": "door (50).webp"
+    },
+    {
+      "img": "door (51).webp"
+    },
+    {
+      "img": "door (52).webp"
+    },
+    {
+      "img": "door (53).webp"
+    },
+    {
+      "img": "door (54).webp"
+    },
+    {
+      "img": "door (55).webp"
+    },
+    {
+      "img": "door (56).webp"
+    },
+    {
+      "img": "door (57).webp"
+    },
+    {
+      "img": "door (58).webp"
+    },
+    {
+      "img": "door (59).webp"
+    },
+    {
+      "img": "door (6).webp"
+    },
+    {
+      "img": "door (60).webp"
+    },
+    {
+      "img": "door (61).webp"
+    },
+    {
+      "img": "door (62).webp"
+    },
+    {
+      "img": "door (63).webp"
+    },
+    {
+      "img": "door (64).webp"
+    },
+    {
+      "img": "door (65).webp"
+    },
+    {
+      "img": "door (66).webp"
+    },
+    {
+      "img": "door (67).webp"
+    },
+    {
+      "img": "door (68).webp"
+    },
+    {
+      "img": "door (69).webp"
+    },
+    {
+      "img": "door (7).webp"
+    },
+    {
+      "img": "door (70).webp"
+    },
+    {
+      "img": "door (71).webp"
+    },
+    {
+      "img": "door (72).webp"
+    },
+    {
+      "img": "door (73).webp"
+    },
+    {
+      "img": "door (74).webp"
+    },
+    {
+      "img": "door (75).webp"
+    },
+    {
+      "img": "door (76).webp"
+    },
+    {
+      "img": "door (77).webp"
+    },
+    {
+      "img": "door (78).webp"
+    },
+    {
+      "img": "door (79).webp"
+    },
+    {
+      "img": "door (8).webp"
+    },
+    {
+      "img": "door (80).webp"
+    },
+    {
+      "img": "door (81).webp"
+    },
+    {
+      "img": "door (82).webp"
+    },
+    {
+      "img": "door (83).webp"
+    },
+    {
+      "img": "door (84).webp"
+    },
+    {
+      "img": "door (85).webp"
+    },
+    {
+      "img": "door (86).webp"
+    },
+    {
+      "img": "door (87).webp"
+    },
+    {
+      "img": "door (88).webp"
+    },
+    {
+      "img": "door (89).webp"
+    },
+    {
+      "img": "door (9).webp"
+    },
+    {
+      "img": "door (90).webp"
+    },
+    {
+      "img": "door (91).webp"
+    },
+    {
+      "img": "door (92).webp"
+    },
+    {
+      "img": "door (93).webp"
+    },
+    {
+      "img": "door (94).webp"
+    },
+    {
+      "img": "door (95).webp"
+    },
+    {
+      "img": "door (96).webp"
+    },
+    {
+      "img": "door (97).webp"
+    },
+    {
+      "img": "door (98).webp"
+    },
+    {
+      "img": "door (99).webp"
+    }
+  ],
+  "update": "2026-02-20T01:06:57.443Z",
+  "date": "2026-02-20T01:06:55.408Z",
+  "title": {
+    "tr": "Kapı Ürünleri",
+    "en": "ADOKAPI Door",
+    "ar": "باب أدوكابي"
+  }
+}

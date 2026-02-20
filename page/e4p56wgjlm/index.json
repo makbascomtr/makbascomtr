@@ -1,0 +1,44 @@
+{
+  "name": {
+    "tr": "İletişim",
+    "en": "Communication",
+    "ar": "تواصل"
+  },
+  "status": "play",
+  "category": "",
+  "id": "e4p56wgjlm",
+  "externalUrl": "",
+  "path": "iletisim",
+  "keyword": {
+    "tr": "iletişim, iletişim, irtibat",
+    "en": "communication, communication, contact",
+    "ar": "التواصل، التواصل، الاتصال"
+  },
+  "description": {
+    "tr": "Makbaş LTD.ŞTİ. olarak, inşaat ve kozmetik sektörlerinde faaliyet gösteriyoruz. Bize ulaşmak için lütfen bu sayfayı ziyaret edin.",
+    "en": "Makbaş LTD.ŞTİ. ",
+    "ar": "Makbaş LTD.ŞTİ. "
+  },
+  "text": {
+    "tr": "İletişim bilgilerimize ulaşmak için lütfen buraya tıklayın.",
+    "en": "Please click here to access our contact information.",
+    "ar": "الرجاء الضغط هنا للوصول إلى معلومات الاتصال لدينا."
+  },
+  "index": 3,
+  "desing": {
+    "header": [],
+    "body": [
+      "wqnt3a",
+      "j1bd0g"
+    ],
+    "footer": []
+  },
+  "desc": {},
+  "update": "2026-02-20T01:06:57.356Z",
+  "date": "2026-02-20T01:06:55.323Z",
+  "title": {
+    "tr": "İletişim",
+    "en": "Communication",
+    "ar": "تواصل"
+  }
+}

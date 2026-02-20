@@ -25,10 +25,10 @@
   <link rel="preload" href="/src/fonts/rubik/rubik-latin-700-normal.woff2" as="font" type="font/woff2" crossorigin />
 
   <link rel="preload" href="/src/rubik.css" as="style" onload="this.onload=null;this.rel='stylesheet'" />
-  <link rel="preload" href="/src/css.css?v=cvdz7" as="style" onload="this.onload=null;this.rel='stylesheet'" />
-  <link rel="preload" href="/src/cookie.css?v=cvdz7" as="style" onload="this.onload=null;this.rel='stylesheet'" />
+  <link rel="preload" href="/src/css.css?v=tgkd8" as="style" onload="this.onload=null;this.rel='stylesheet'" />
+  <link rel="preload" href="/src/cookie.css?v=tgkd8" as="style" onload="this.onload=null;this.rel='stylesheet'" />
   <link rel="preload" href="/src/swiper-bundle.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'" />
-  <link rel="shortcut icon" href="/img/icon.png?v=cvdz7" type="image/png" />
+  <link rel="shortcut icon" href="/img/icon.png?v=tgkd8" type="image/png" />
   <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -52,45 +52,45 @@
   
   
   
-<link rel="stylesheet" href="style.css?v=cvdz7">
+<link rel="stylesheet" href="style.css?v=tgkd8">
 </head>
 
 <body>
-  <div id="header"><div class="z5nt6">
-  <div class="z5nt6title">
-    <div class="z5nt6titlebody">
-      <div class="z5nt6titlebodylang">
+  <div id="header"><div class="ixbqg">
+  <div class="ixbqgtitle">
+    <div class="ixbqgtitlebody">
+      <div class="ixbqgtitlebodylang">
         <ul>
           <li><a href="/tr/vizyon/">TR</a></li><li><a href="/en/vizyon/">EN</a></li><li><a href="/ar/vizyon/">AR</a></li>
         </ul>
       </div>
     </div>
   </div>
-  <div class="z5nt6body">
+  <div class="ixbqgbody">
     <a href="/tr/"
       ><img
-        src="/img/logo.svg?v=cvdz7"
+        src="/img/logo.svg?v=tgkd8"
         alt="Makbaş Logo"
-        class="z5nt6bodylogo"
+        class="ixbqgbodylogo"
         loading="lazy"
     /></a>
-    <button type="button" class="z5nt6-mobile-toggle" onclick="menu2_toggle()" aria-label="Menüyü aç/kapat">
+    <button type="button" class="ixbqg-mobile-toggle" onclick="menu2_toggle()" aria-label="Menüyü aç/kapat">
       <span class="material-symbols-outlined" aria-hidden="true">menu</span>
     </button>
   </div>
   <!-- Mobil: dış tıklamada menüyü kapatmak için yarı saydam arka plan (app drawer tarzı) -->
-  <div class="z5nt6-menu-backdrop" onclick="menu2_toggle()" aria-hidden="true"></div>
-  <div class="z5nt6menubody">
-    <div class="z5nt6menu" id="menu-2-root">
-      <div class="z5nt6menulistbody">
-        <div class="z5nt6menulist">
+  <div class="ixbqg-menu-backdrop" onclick="menu2_toggle()" aria-hidden="true"></div>
+  <div class="ixbqgmenubody">
+    <div class="ixbqgmenu" id="menu-2-root">
+      <div class="ixbqgmenulistbody">
+        <div class="ixbqgmenulist">
           <ul>
             <a href="/tr/">Anasayfa </a><a href="/tr/kurumsal/">Kurumsal</a><a href="/tr/insaat-urunlerimiz/">İnşaat Ürünlerimiz</a><a href="/tr/kozmetik-urunlerimiz/">Kozmetik Ürünlerimiz</a><a href="/tr/iletisim/">İletişim</a>
           </ul>
         </div>
       </div>
       <!-- Mobil kural: lang drawer'ın en altında ve ortada -->
-      <div class="z5nt6languages-mobile">
+      <div class="ixbqglanguages-mobile">
         <ul>
           <li><a href="/tr/vizyon/">TR</a></li><li><a href="/en/vizyon/">EN</a></li><li><a href="/ar/vizyon/">AR</a></li>
         </ul>
@@ -100,51 +100,51 @@
 </div>
 
 <script>
-  /* Mobil menü aç/kapat: class wrapper (.z5nt6) üzerinde tutulur; mobilde menü paneli buna göre gösterilir/gizlenir */
+  /* Mobil menü aç/kapat: class wrapper (.ixbqg) üzerinde tutulur; mobilde menü paneli buna göre gösterilir/gizlenir */
   if (typeof menu2_toggle === "undefined") {
     function menu2_toggle() {
       var root = document.getElementById("menu-2-root");
       if (!root) {
         return;
       }
-      var wrapper = root.closest ? root.closest(".z5nt6") : null;
+      var wrapper = root.closest ? root.closest(".ixbqg") : null;
       var target = wrapper || root;
-      if (target.classList.contains("z5nt6menu-open")) {
-        target.classList.remove("z5nt6menu-open");
+      if (target.classList.contains("ixbqgmenu-open")) {
+        target.classList.remove("ixbqgmenu-open");
       } else {
-        target.classList.add("z5nt6menu-open");
+        target.classList.add("ixbqgmenu-open");
       }
     }
   }
 </script>
 </div>
-  <div id="content"><div class="pag6s-title f36">
+  <div id="content"><div class="i2uak-title f36">
   <h1>Vizyon</h1>
 </div>
-<div class="pag6s">
-  <div class="pag6s-menu-btn">
+<div class="i2uak">
+  <div class="i2uak-menu-btn">
     <span>Menü</span>
-    <span class="material-symbols-outlined pag6s-icon">menu</span>
+    <span class="material-symbols-outlined i2uak-icon">menu</span>
   </div>
-  <div class="pag6s-menu-overlay" id="pag6s-menu-overlay" aria-hidden="true"></div>
-  <div class="pag6s-menu" id="pag6s-menu">
-    <button class="pag6s-menu-close" type="button" aria-label="Menüyü Kapat" aria-controls="pag6s-menu">
+  <div class="i2uak-menu-overlay" id="i2uak-menu-overlay" aria-hidden="true"></div>
+  <div class="i2uak-menu" id="i2uak-menu">
+    <button class="i2uak-menu-close" type="button" aria-label="Menüyü Kapat" aria-controls="i2uak-menu">
       <span class="material-symbols-outlined" aria-hidden="true">close</span>
     </button>
     
-        <div class="pag6s-menu-group open">
-          <button type="button" class="pag6s-top active">
+        <div class="i2uak-menu-group open">
+          <button type="button" class="i2uak-top active">
             <div>Kurumsal</div>
-            <span class="material-symbols-outlined pag6s-icon">expand_more</span>
+            <span class="material-symbols-outlined i2uak-icon">expand_more</span>
           </button>
-          <div class="pag6s-sub show">
-            <a class="pag6s-sub-link" href="/tr/kurumsal/">Kurumsal</a><a class="pag6s-sub-link" href="/tr/hakkimizda/">Hakkımızda</a><a class="pag6s-sub-link active" href="/tr/vizyon/">Vizyon</a><a class="pag6s-sub-link" href="/tr/misyon/">Misyon</a><a class="pag6s-sub-link" href="/tr/degerlerimiz/">Değerlerimiz</a><a class="pag6s-sub-link" href="/tr/kalite-politikamiz/">Kalite Politikamız</a><a class="pag6s-sub-link" href="/tr/kisisel-veriler/">Kişisel Veriler</a><a class="pag6s-sub-link" href="/tr/yasal-uyari/">Yasal Uyarı</a><a class="pag6s-sub-link" href="/tr/cerez-politikasi/">Çerez Politikası</a>
+          <div class="i2uak-sub show">
+            <a class="i2uak-sub-link" href="/tr/kurumsal/">Kurumsal</a><a class="i2uak-sub-link" href="/tr/hakkimizda/">Hakkımızda</a><a class="i2uak-sub-link active" href="/tr/vizyon/">Vizyon</a><a class="i2uak-sub-link" href="/tr/misyon/">Misyon</a><a class="i2uak-sub-link" href="/tr/degerlerimiz/">Değerlerimiz</a><a class="i2uak-sub-link" href="/tr/kalite-politikamiz/">Kalite Politikamız</a><a class="i2uak-sub-link" href="/tr/kisisel-veriler/">Kişisel Veriler</a><a class="i2uak-sub-link" href="/tr/yasal-uyari/">Yasal Uyarı</a><a class="i2uak-sub-link" href="/tr/cerez-politikasi/">Çerez Politikası</a>
           </div>
-        </div><a class="pag6s-menu-link" href="/tr/insaat-urunlerimiz/">İnşaat Ürünlerimiz</a><a class="pag6s-menu-link" href="/tr/kozmetik-urunlerimiz/">Kozmetik Ürünlerimiz</a><a class="pag6s-menu-link" href="/tr/iletisim/">İletişim</a>
+        </div><a class="i2uak-menu-link" href="/tr/insaat-urunlerimiz/">İnşaat Ürünlerimiz</a><a class="i2uak-menu-link" href="/tr/kozmetik-urunlerimiz/">Kozmetik Ürünlerimiz</a><a class="i2uak-menu-link" href="/tr/iletisim/">İletişim</a>
   </div>
-  <div class="pag6s-desc">
+  <div class="i2uak-desc">
     
-    <div class="pag6s-body"><main>
+    <div class="i2uak-body"><main>
     <section class="flexColumn gap5 f16 vision-section">
         <h1>Vizyonumuz</h1>
         <p><strong>Global Arenada Güvenilir ve Kaliteli Marka</strong></p>
@@ -159,10 +159,10 @@
 
 <script>
   setTimeout(function() {
-    var menuToggleBtn = document.querySelector(".pag6s-menu-btn");
-    var menu = document.querySelector(".pag6s-menu");
-    var overlay = document.querySelector(".pag6s-menu-overlay");
-    var closeButton = document.querySelector(".pag6s-menu-close");
+    var menuToggleBtn = document.querySelector(".i2uak-menu-btn");
+    var menu = document.querySelector(".i2uak-menu");
+    var overlay = document.querySelector(".i2uak-menu-overlay");
+    var closeButton = document.querySelector(".i2uak-menu-close");
     
     if (!menuToggleBtn || !menu) {
       return;
@@ -232,7 +232,7 @@
     // Menü içindeki linklere tıklanınca kapat
     menu.addEventListener("click", function (event) {
       var link = event.target.closest("a");
-      var closeBtn = event.target.closest(".pag6s-menu-close");
+      var closeBtn = event.target.closest(".i2uak-menu-close");
       if (link && !closeBtn) {
         closeMenu();
       }
@@ -280,15 +280,15 @@
     handleBreakpoint();
 
     // Alt menü toggle fonksiyonları
-    document.querySelectorAll(".pag6s-top").forEach(function (button) {
+    document.querySelectorAll(".i2uak-top").forEach(function (button) {
       button.addEventListener("click", function (e) {
         e.stopPropagation();
-        var group = this.closest(".pag6s-menu-group");
+        var group = this.closest(".i2uak-menu-group");
         if (!group) return;
-        var sub = group.querySelector(".pag6s-sub");
+        var sub = group.querySelector(".i2uak-sub");
         var isOpen = group.classList.toggle("open");
         this.classList.toggle("active", isOpen);
-        var icon = this.querySelector(".pag6s-icon");
+        var icon = this.querySelector(".i2uak-icon");
         if (icon) {
           icon.textContent = isOpen ? "expand_less" : "expand_more";
         }
@@ -356,8 +356,8 @@
 
 
 <script defer src="/src/swiper-bundle.min.js"></script>
-<script defer type="text/javascript" src="/src/js.js?v=cvdz7"></script>
-<script defer src="/src/cookie.js?v=cvdz7"></script>
+<script defer type="text/javascript" src="/src/js.js?v=tgkd8"></script>
+<script defer src="/src/cookie.js?v=tgkd8"></script>
 
 <script>
   // RTL dil kontrolü - Arapça için sağdan sola yazım desteği

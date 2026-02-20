@@ -1,7 +1,7 @@
 
  
 
-  .ngxya {
+  .buvzl {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -9,7 +9,7 @@
     justify-content: center;
   }
 
-  .ngxyatitle {
+  .buvzltitle {
     width: 100%;
     display: flex;
     align-items: center;
@@ -18,12 +18,12 @@
     z-index: 1;
   }
 
-  .ngxyatitle:has(.ngxyatitlebodylang:empty),
-  .ngxyatitle:has(.ngxyatitlebodylang ul:empty) {
+  .buvzltitle:has(.buvzltitlebodylang:empty),
+  .buvzltitle:has(.buvzltitlebodylang ul:empty) {
     display: none;
   }
 
-  .ngxyatitlebody {
+  .buvzltitlebody {
     color: #ffffff;
     width: var(--max);
     display: flex;
@@ -31,34 +31,34 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .ngxyatitlebodytitle {
+  .buvzltitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .ngxyatitlebodylang {
+  .buvzltitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .ngxyatitlebodylang:empty,
-  .ngxyatitlebodylang ul:empty {
+  .buvzltitlebodylang:empty,
+  .buvzltitlebodylang ul:empty {
     display: none;
   }
 
-  .ngxyatitlebodylang ul {
+  .buvzltitlebodylang ul {
     display: flex;
     gap: 8px;
   }
 
   /* Dil seçici: TR / EN metin, bordür tema rengiyle uyumlu (renk uyumsuzluğu yok) */
-  .ngxyatitlebodylang li {
+  .buvzltitlebodylang li {
     list-style: none;
   }
 
-  .ngxyatitlebodylang li a {
+  .buvzltitlebodylang li a {
     display: inline-flex;
     align-items: center;
     justify-content: center;
@@ -75,13 +75,13 @@
     cursor: pointer;
   }
 
-  .ngxyatitlebodylang li a:hover {
+  .buvzltitlebodylang li a:hover {
     border-color: #000000;
     background: #ffffff;
     color: #000000 !important;
   }
 
-  .ngxyabody {
+  .buvzlbody {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -91,7 +91,7 @@
   }
 
   /* Mobil hamburger butonu: onclick olduğu için cursor: pointer zorunlu (kural) */
-  .ngxya-mobile-toggle {
+  .buvzl-mobile-toggle {
     display: none;
     background: #1e3046;
     color: #ffffff;
@@ -105,18 +105,18 @@
     right: 0;
   }
 
-  .ngxya-mobile-toggle span {
+  .buvzl-mobile-toggle span {
     font-size: 24px;
   }
 
-  .ngxyamenu {
+  .buvzlmenu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
 
-  .ngxyamenulist {
+  .buvzlmenulist {
     width: calc(100% - 20px);
     background-color: #1e3046;
     padding: 10px;
@@ -125,7 +125,7 @@
     display: flex;
   }
 
-  .ngxyamenubody {
+  .buvzlmenubody {
     width: 100%;
     background-color: #1e3046;
     display: flex;
@@ -133,7 +133,7 @@
     justify-content: center;
   }
 
-  .ngxyamenulist ul {
+  .buvzlmenulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -142,7 +142,7 @@
     padding: 0;
   }
 
-  .ngxyamenulist ul a {
+  .buvzlmenulist ul a {
     padding: 10px 15px;
     font-size: 16px;
     color: #ffffff !important;
@@ -155,40 +155,40 @@
     margin: 0 2px;
   }
 
-  .ngxyamenulist ul a:hover {
+  .buvzlmenulist ul a:hover {
     background-color: #ffffff;
     border-radius: 5px;
     color: #000000 !important;
     cursor: pointer;
   }
 
-  .ngxyamenulist ul a.ngxya-menu-list-active {
+  .buvzlmenulist ul a.buvzl-menu-list-active {
     color: #000000 !important;
   }
 
-  .ngxya-menu-list-active {
+  .buvzl-menu-list-active {
     background-color: #ffffff;
     border-radius: 5px;
     color: #000000 !important;
     cursor: pointer;
   }
 
-  .ngxyamenulistbody {
+  .buvzlmenulistbody {
     width: 100%;
   }
 
-  .ngxyalanguages-mobile {
+  .buvzllanguages-mobile {
     display: none;
     padding-top: 15px;
     border-top: 1px solid rgba(0, 0, 0, 0.1);
   }
 
-  .ngxyalanguages-mobile:empty,
-  .ngxyalanguages-mobile ul:empty {
+  .buvzllanguages-mobile:empty,
+  .buvzllanguages-mobile ul:empty {
     display: none !important;
   }
 
-  .ngxyalanguages-mobile ul {
+  .buvzllanguages-mobile ul {
     display: flex;
     gap: 8px;
     margin: 0;
@@ -198,7 +198,7 @@
   }
 
   /* Dil seçici: TR / EN metin, bordür ve arka plan tema ile uyumlu */
-  .ngxyalanguages-mobile li {
+  .buvzllanguages-mobile li {
     list-style: none;
     border: 1px solid color-mix(in srgb, #ffffff 35%, transparent);
     padding: 0;
@@ -212,7 +212,7 @@
     transition: border-color 0.2s ease, background 0.2s ease, box-shadow 0.2s ease;
   }
 
-  .ngxyalanguages-mobile li a {
+  .buvzllanguages-mobile li a {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -227,29 +227,29 @@
     cursor: pointer;
   }
 
-  .ngxyalanguages-mobile li:hover {
+  .buvzllanguages-mobile li:hover {
     background-color: #ffffff;
     border-color: #000000;
     box-shadow: 0 2px 8px color-mix(in srgb, #000000 25%, transparent);
   }
 
-  .ngxyalanguages-mobile li:hover a {
+  .buvzllanguages-mobile li:hover a {
     color: #000000 !important;
   }
 
   /* Mobil drawer için backdrop: masaüstünde görünmez */
-  .ngxya-menu-backdrop {
+  .buvzl-menu-backdrop {
     display: none;
   }
 
   @media screen and (min-width: 1024px) {
-    .ngxyabodylogo {
+    .buvzlbodylogo {
       height: 100px;
       max-width: 90vw;
       max-height: 100px;
     }
 
-    .ngxyatitle {
+    .buvzltitle {
     margin-bottom: -30px;
   }
 
@@ -257,30 +257,30 @@
   }
 
   @media screen and (max-width: 1024px) {
-    .ngxyabody {
+    .buvzlbody {
       width: calc(100% - 20px);
       padding: 0 10px;
       justify-content: center;
     }
 
-    .ngxyamenulist ul {
+    .buvzlmenulist ul {
       flex-direction: row;
     }
 
-    .ngxyabodylogo {
+    .buvzlbodylogo {
       width: 50vw;
       max-width: 50vw;
       max-height: 100px;
     }
 
-    .ngxyatitlebody {
+    .buvzltitlebody {
       flex-direction: column;
       gap: 10px;
       align-items: center;
       display: none;
     }
 
-    .ngxyatitlebodytitle {
+    .buvzltitlebodytitle {
       text-align: center;
       font-size: 14px;
     }
@@ -288,28 +288,28 @@
 
     /* Mobil: app tarzı sağdan kayan drawer menü */
   @media screen and (max-width: 768px) {
-    .ngxyatitlebodylang {
+    .buvzltitlebodylang {
       display: none;
     }
 
-    .ngxyabody {
+    .buvzlbody {
       width: calc(100% - 20px);
       padding: 0 10px;
       justify-content: space-between;
     }
 
-    .ngxya-mobile-toggle {
+    .buvzl-mobile-toggle {
       display: inline-flex;
     }
 
-    .ngxyabodylogo {
+    .buvzlbodylogo {
       width: 40vw;
       max-width: 40vw;
       max-height: 80px;
     }
 
     /* Backdrop: sadece menü açıkken görünür; tıklanınca menü kapanır (onclick ile) */
-    .ngxya-menu-backdrop {
+    .buvzl-menu-backdrop {
       display: block;
       position: fixed;
       inset: 0;
@@ -322,14 +322,14 @@
       cursor: pointer;
     }
 
-    .ngxya.ngxyamenu-open .ngxya-menu-backdrop {
+    .buvzl.buvzlmenu-open .buvzl-menu-backdrop {
       opacity: 1;
       visibility: visible;
       pointer-events: auto;
     }
 
     /* Drawer: sağdan kayan panel, fixed, tam yükseklik; kapalıyken ekran dışında */
-    .ngxyamenubody {
+    .buvzlmenubody {
       position: fixed;
       top: 0;
       right: 0;
@@ -349,22 +349,22 @@
       overflow-y: auto;
     }
 
-    .ngxya.ngxyamenu-open .ngxyamenubody {
+    .buvzl.buvzlmenu-open .buvzlmenubody {
       transform: translateX(0);
     }
 
-    .ngxyamenu {
+    .buvzlmenu {
       width: 100%;
       flex-direction: column;
       height: 100%;
     }
 
-    .ngxyamenulistbody {
+    .buvzlmenulistbody {
       flex: 1;
       overflow-y: auto;
     }
 
-    .ngxyamenulist {
+    .buvzlmenulist {
       display: flex;
       flex-direction: column;
       width: 100%;
@@ -374,12 +374,12 @@
       box-shadow: none;
     }
 
-    .ngxya.ngxyamenu-open .ngxyamenulist {
+    .buvzl.buvzlmenu-open .buvzlmenulist {
       display: flex;
     }
 
     /* Mobil kural: lang sayfanın (drawer) en altında ve ortada */
-    .ngxya.ngxyamenu-open .ngxyalanguages-mobile {
+    .buvzl.buvzlmenu-open .buvzllanguages-mobile {
       display: flex;
       flex-direction: column;
       align-items: center;
@@ -391,16 +391,16 @@
       flex-shrink: 0;
     }
 
-    .ngxya.ngxyamenu-open .ngxyalanguages-mobile ul {
+    .buvzl.buvzlmenu-open .buvzllanguages-mobile ul {
       justify-content: center;
     }
 
-    .ngxyamenulist ul {
+    .buvzlmenulist ul {
       flex-direction: column;
       gap: 0;
     }
 
-    .ngxyamenulist ul a {
+    .buvzlmenulist ul a {
       font-size: 15px;
       width: 100%;
       padding: 14px 12px;
@@ -411,34 +411,34 @@
       box-sizing: border-box;
     }
 
-    .ngxyamenulist ul a:last-child {
+    .buvzlmenulist ul a:last-child {
       border-bottom: none;
     }
 
-    .ngxyamenulist ul a:hover {
+    .buvzlmenulist ul a:hover {
       background-color: #ffffff;
       border-radius: 0;
     }
 
-    .ngxyatitlebodytitle {
+    .buvzltitlebodytitle {
       font-size: 12px;
     }
   }
 
 
-  .jr1j2 {
+  .kqzpo {
     margin-top: 20px;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .jr1j2body {
+  .kqzpobody {
     width: var(--max);
     display: grid;
     gap: 20px;
     grid-template-columns: repeat(4, 1fr);
   }
-  .jr1j2bodyitem {
+  .kqzpobodyitem {
     aspect-ratio: 7 / 4;
     background-color: #e0e0e0;
     /* Daha sofistike bir renk */
@@ -452,24 +452,24 @@
     transition: transform 0.2s ease;
     cursor: pointer;
   }
-  .jr1j2bodyitem:hover {
+  .kqzpobodyitem:hover {
     transform: translateY(-5px);
     /* Hover efekti ile hareket katın */
   }
-  .jr1j2bodyitemtitle {
+  .kqzpobodyitemtitle {
     font-weight: bold;
     text-align: center;
     font-size: 1.2em;
   }
   @media screen and (max-width: 1024px) {
-    .jr1j2body {
+    .kqzpobody {
       width: calc(100% - 10px);
       margin: 0px 5px;
       grid-template-columns: repeat(3, 1fr);
     }
   }
   @media screen and (max-width: 768px) {
-    .jr1j2body {
+    .kqzpobody {
       width: calc(100% - 10px);
       margin: 0px 5px;
       grid-template-columns: repeat(2, 1fr);
